@@ -1,0 +1,2 @@
+- In Github Repo
+- Datensatz: EuroSAT - torchvision 1. effiecenNet 2. ResNet

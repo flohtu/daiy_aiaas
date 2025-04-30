@@ -3,19 +3,19 @@ import random
 
 app = Flask(__name__)
 
-# random words
+# random klassifikation
 CLASSIFICATION_WORDS = [
     "Hund", "Katze", "Auto", "Baum", "Haus", "Blume", "Vogel", "Sonne", "Mond", "See"
 ]
 
-# HTML-Template - Hauptseite
+# Hauptseite
 INDEX_HTML = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trustworthy AIaaS Webserver</title>
+  <title>DAIY AIaaS Webserver</title>
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <!-- Google Fonts -->
@@ -118,7 +118,7 @@ INDEX_HTML = """
 <body>
   <div class="container">
     <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" class="logo">
-    <h1>Trustworthy AIaaS Webserver</h1>
+    <h1>DAIY AIaaS Webserver</h1>
     <p>Wähle einen Dienst aus, um fortzufahren:</p>
     <div class="row">
       <div class="col-6 col-md-3">
@@ -181,7 +181,7 @@ INDEX_HTML = """
       <a href="{{ url_for('ethics') }}">Ethik-Richtlinien</a> |
       <a href="{{ url_for('contact') }}">Feedback & Kontakt</a>
     </p>
-    <p>© 2025 Trustworthy AIaaS Webserver. Alle Rechte vorbehalten.</p>
+    <p>© 2025 DAIY AIaaS Webserver. Alle Rechte vorbehalten.</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -260,7 +260,7 @@ SLA_HTML = """
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SLA - Trustworthy AIaaS Webserver</title>
+  <title>SLA - DAIY AIaaS Webserver</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
@@ -310,7 +310,7 @@ SLA_HTML = """
       <a href="{{ url_for('ethics') }}">Ethik-Richtlinien</a> |
       <a href="{{ url_for('contact') }}">Feedback & Kontakt</a>
     </p>
-    <p>© 2025 Trustworthy AIaaS Webserver. Alle Rechte vorbehalten.</p>
+    <p>© 2025 DAIY AIaaS Webserver. Alle Rechte vorbehalten.</p>
   </footer>
 </body>
 </html>
@@ -323,7 +323,7 @@ PRIVACY_HTML = """
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Datenschutzerklärung - Trustworthy AIaaS Webserver</title>
+  <title>Datenschutzerklärung - DAIY AIaaS Webserver</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
@@ -373,7 +373,7 @@ PRIVACY_HTML = """
       <a href="{{ url_for('ethics') }}">Ethik-Richtlinien</a> |
       <a href="{{ url_for('contact') }}">Feedback & Kontakt</a>
     </p>
-    <p>© 2025 Trustworthy AIaaS Webserver. Alle Rechte vorbehalten.</p>
+    <p>© 2025 DAIY AIaaS Webserver. Alle Rechte vorbehalten.</p>
   </footer>
 </body>
 </html>
@@ -386,7 +386,7 @@ ETHICS_HTML = """
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ethik-Richtlinien - Trustworthy AIaaS Webserver</title>
+  <title>Ethik-Richtlinien - DAIY AIaaS Webserver</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
@@ -436,7 +436,7 @@ ETHICS_HTML = """
       <a href="{{ url_for('ethics') }}">Ethik-Richtlinien</a> |
       <a href="{{ url_for('contact') }}">Feedback & Kontakt</a>
     </p>
-    <p>© 2025 Trustworthy AIaaS Webserver. Alle Rechte vorbehalten.</p>
+    <p>© 2025 DAIY AIaaS Webserver. Alle Rechte vorbehalten.</p>
   </footer>
 </body>
 </html>
@@ -449,7 +449,7 @@ CONTACT_HTML = """
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Feedback & Kontakt - Trustworthy AIaaS Webserver</title>
+  <title>Feedback & Kontakt - DAIY AIaaS Webserver</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
@@ -497,7 +497,7 @@ CONTACT_HTML = """
       <a href="{{ url_for('ethics') }}">Ethik-Richtlinien</a> |
       <a href="{{ url_for('contact') }}">Feedback & Kontakt</a>
     </p>
-    <p>© 2025 Trustworthy AIaaS Webserver. Alle Rechte vorbehalten.</p>
+    <p>© 2025 DAIY AIaaS Webserver. Alle Rechte vorbehalten.</p>
   </footer>
 </body>
 </html>
@@ -527,7 +527,7 @@ def contact():
 def classify():
     if 'image' not in request.files:
         return {'error': 'Kein Bild hochgeladen'}, 400
-    # Simuliere Klassifikation mit einem zufälligen Wort
+    # Simuliere Klassifikation 
     classification = random.choice(CLASSIFICATION_WORDS)
     return {'classification': classification}
 
@@ -536,7 +536,6 @@ def feedback():
     data = request.get_json()
     classification = data.get('classification')
     feedback = data.get('feedback')
-    # Hier könnte Feedback z.B. in einer Datenbank gespeichert werden
     message = f"Vielen Dank für dein Feedback! Du hast '{feedback}' für die Klassifikation '{classification}' gegeben."
     return {'message': message}
 

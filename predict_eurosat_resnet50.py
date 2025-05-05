@@ -13,7 +13,7 @@ weights = models.ResNet50_Weights.DEFAULT
 preprocess = weights.transforms()
 
 # Bild (Eingabe)
-image_path = "Forest_4.jpg"
+image_path = ""
 image = Image.open(image_path).convert("RGB")
 image = preprocess(image).unsqueeze(0)
 

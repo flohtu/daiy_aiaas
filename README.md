@@ -4,7 +4,7 @@
 Führe torch_vision_model_v1.py aus, um das Modell zu trainieren und die Datei eurosat_resnet50.pth (Modell) zu erstellen.
 
 **Einfache Vorhersage (ohne Webserver):**
-Führe predict_eurosat_resnet50.py aus, um eine Vorhersage für ein einzelnes Bild zu machen.
+Führe predict_eurosat_resnet50.py aus, um eine Vorhersage für ein einzelnes Bild zu machen (Pfad zum Bild anpassen).
 
 **Webserver für Klassifikation:**
 Führe minimal_webserver.py aus, um den Flask-Webserver zu starten, der Bildklassifikationen über die Oberfläche ermöglicht.

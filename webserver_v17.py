@@ -34,13 +34,13 @@ def predict_emission(prompt):
     embedding = bert_model.encode([prompt])
     return float(ENERGY_MODEL.predict(embedding)[0])
 
-# Modellauswahl
+# Modellwahl
 MODEL_CONFIGS = {
-    'densenet': (models.densenet121, 'damaged_packages_densenet_epoch.pth'),
-    'efficientnet': (models.efficientnet_b0, 'damaged_packages_efficientnet_epoch.pth'),
-    'mobilenetv3': (models.mobilenet_v3_large, 'damaged_packages_mobilenetv3_epoch.pth'),
-    'resnet18': (models.resnet18, 'damaged_packages_resnet18_epoch.pth'),
-    'resnet50': (models.resnet50, 'damaged_packages_resnet50_epoch.pth'),
+    'densenet': (models.densenet121, 'model_weights/damaged_packages_densenet_epoch.pth'),
+    'efficientnet': (models.efficientnet_b0, 'model_weights/damaged_packages_efficientnet_epoch.pth'),
+    'mobilenetv3': (models.mobilenet_v3_large, 'model_weights/damaged_packages_mobilenetv3_epoch.pth'),
+    'resnet18': (models.resnet18, 'model_weights/damaged_packages_resnet18_epoch.pth'),
+    'resnet50': (models.resnet50, 'model_weights/damaged_packages_resnet50_epoch.pth'),
 }
 
 ALL_MODELS = {}

@@ -1,0 +1,182 @@
+Was versteht man unter AI as a Service?
+Nenne die Hauptvorteile von Machine Learning in der Cloud.
+Welche Herausforderungen gibt es bei KI-Ethik?
+Wie funktioniert supervised learning?
+Was ist der Unterschied zwischen klassischem Programmieren und ML?
+Wofür wird Reinforcement Learning eingesetzt?
+Was ist ein neuronales Netz?
+Erkläre Overfitting mit einem Beispiel.
+Wie kann man Daten für ML-Anwendungen vorverarbeiten?
+Welche Bedeutung haben GPUs für KI?
+Was ist Transfer Learning?
+Nenne bekannte Anbieter von AIaaS.
+Wie lässt sich KI für die Automatisierung nutzen?
+Was sind Biases in ML-Modellen?
+Was ist ein Hyperparameter in ML?
+Wie funktioniert Feature Engineering?
+Was ist die Rolle von APIs im Kontext von AIaaS?
+Wie wird Natural Language Processing in der Industrie eingesetzt?
+Welche Programmiersprachen sind am wichtigsten für KI?
+Erkläre den Begriff Big Data.
+Was sind die Risiken von generativer KI?
+Wie kann man ML-Modelle überwachen?
+Was ist Explainable AI (XAI)?
+Wie funktioniert ein Decision Tree?
+Erkläre Data Augmentation.
+Welche Cloud-Plattformen bieten KI-Dienste?
+Wie kann man Deep Learning effizient trainieren?
+Was sind Use Cases für KI im Gesundheitswesen?
+Wie funktioniert ein Recommendation System?
+Was ist unsupervised learning?
+Was ist ein Random Forest?
+Wie erkennt man Anomalien mit ML?
+Welche Rolle spielt Data Privacy bei AIaaS?
+Wie funktioniert der Turing-Test?
+Erkläre Computer Vision.
+Wie kann man Modelle gegen Angriffe absichern?
+Was ist ein Pretrained Model?
+Wie funktioniert Federated Learning?
+Was ist die Rolle von Open Source in KI?
+Wie werden ML-Modelle in Produktion gebracht?
+Was ist der Unterschied zwischen KI und ML?
+Wie kann KI nachhaltiger werden?
+Wie funktioniert sentiment analysis?
+Wie werden Chatbots trainiert?
+Welche Herausforderungen gibt es bei der Datenqualität?
+Wie kann man Bias im Training reduzieren?
+Was sind die Trends im Bereich AIaaS?
+Wie kann man ML-Projekte agil umsetzen?
+Was ist ein Datensatz?
+Wie wichtig ist Datenqualität für KI-Systeme?
+Was ist der Unterschied zwischen künstlicher Intelligenz und schwacher KI?
+Wie kann Explainable AI zur Akzeptanz von KI beitragen?
+Welche regulatorischen Anforderungen gelten für KI-Systeme in Europa?
+Was sind Edge AI und ihre Vorteile?
+Wie können Unternehmen von AIaaS profitieren?
+Welche ethischen Leitlinien sollten bei KI-Projekten beachtet werden?
+Wie wird die Qualität von Trainingsdaten gemessen?
+Was sind typische Fehlerquellen bei ML-Projekten?
+Wie erfolgt die Evaluation von KI-Modellen?
+Was ist eine Konfusionsmatrix?
+Wie kann Cloud Computing die Entwicklung von KI beschleunigen?
+Wie sieht die Zukunft von AIaaS aus?
+Was versteht man unter Model Deployment?
+Wie lassen sich KI-Modelle skalieren?
+Wie kann man Overfitting verhindern?
+Welche Tools gibt es für das Monitoring von ML-Modellen?
+Wie wird Datenanonymisierung im ML-Kontext umgesetzt?
+Was sind typische Herausforderungen bei der Integration von KI in bestehende Systeme?
+Wie kann man Datensätze für ML synthetisch erzeugen?
+Wie können Unternehmen KI verantwortungsvoll einsetzen?
+Was ist Transfer Learning und wann ist es sinnvoll?
+Welche Rolle spielen Datenpipelines in ML-Projekten?
+Wie kann man Modelle für verschiedene Sprachen trainieren?
+Wie wirkt sich die Größe eines Modells auf dessen Energieverbrauch aus?
+Was sind aktuelle Trends in der Forschung zu generativer KI?
+Wie kann Bias in Datensätzen erkannt werden?
+Wie läuft ein typischer AIaaS-Prozess ab?
+Was sind die wichtigsten Anforderungen an Datensicherheit bei AIaaS?
+Wie wird Explainable AI in der Praxis angewendet?
+Was bedeutet Zero-Shot Learning?
+Welche Rolle spielt Transfer Learning im KI-Bereich?
+Wie können KI-Modelle in Echtzeit eingesetzt werden?
+Was sind die Vorteile von AutoML?
+Wie wird Fairness in KI-Systemen sichergestellt?
+Welche KI-Technologien werden in der Industrie am meisten genutzt?
+Was sind die Aufgaben eines Data Scientists?
+Welche Unterschiede gibt es zwischen Regression und Klassifikation?
+Wie funktioniert Clustering?
+Was ist ein Embedding im ML-Kontext?
+Welche Bedeutung hat Feature Selection?
+Wie kann man die Performanz von ML-Modellen steigern?
+Was ist Reinforcement Learning und wofür wird es genutzt?
+Wie kann man Daten für das Training augmentieren?
+Was ist eine ROC-Kurve?
+Wie funktioniert k-Nearest Neighbors?
+Wie werden Modelle mit Transfer Learning weiterentwickelt?
+Was sind GANs (Generative Adversarial Networks)?
+Wie lässt sich die Modellgüte bewerten?
+Welche Bedeutung haben Labels im Machine Learning?
+Wie funktioniert Cross-Validation?
+Was ist eine Epoch im Training eines ML-Modells?
+Wie kann man Modelle interpretierbar machen?
+Was sind die wichtigsten Anwendungsfälle für ML in der Industrie?
+Wie kann man Daten für maschinelles Lernen anonymisieren?
+Was versteht man unter Batch Learning?
+Was ist Semi-Supervised Learning?
+Wie können Ausreißer im Datensatz erkannt und behandelt werden?
+Was sind Herausforderungen bei Multi-Label-Klassifikation?
+Gib an Bedeutung von Trainingsdatenmenge.
+Führe auf gängige ML-Algorithmen.
+Beschreibe Risiken von KI-Systemen.
+Erkläre KI in der Finanzbranche.
+Was sind Cloud-Anbieter für AIaaS.
+Führe auf Limits von generativer KI.
+Liste Möglichkeiten zur Datenbereinigung.
+Was sind Voraussetzungen für erfolgreiches Model-Deployment.
+Was sind Künstliche Intelligenz in der Industrie 4.0.
+Zähle auf Anwendungsfelder von Computer Vision.
+Erkläre Zukunftsperspektiven von AIaaS.
+Nenne Arten neuronaler Netze.
+Beschreibe ethische Herausforderungen bei Machine Learning.
+Nenne KI-Anwendungen in der Medizin.
+Führe auf Schwachstellen von Chatbots.
+Liste Konzepte der Datenanonymisierung.
+Beschreibe Tipps für Data Labeling.
+Was sind Open-Source-Tools für KI.
+Gib an Open-Source-Tools für KI.
+Zähle auf Voraussetzungen für erfolgreiches Model-Deployment.
+Zähle auf Transferierbarkeit von ML-Modellen.
+Gib an Schritte im Data-Science-Prozess.
+Erkläre Vorteile von KI.
+Erkläre Strategien zur Fehlerbehandlung in KI-Systemen.
+Was sind KI-Anwendungen in der Medizin.
+Liste Tipps für Data Labeling.
+Was sind Kriterien für ein gutes Trainingsset.
+Gib an Sicherheitsaspekte beim Model Deployment.
+Führe auf Aktuelle Forschungstrends in KI.
+Was sind Bedeutung von Trainingsdatenmenge.
+Gib an Schwachstellen von Chatbots.
+Führe auf Risiken von KI-Systemen.
+Zähle auf Konzepte des Transfer Learning.
+Gib an Probleme bei Big Data.
+Was sind KI im Bildungswesen.
+Liste Vorteile und Grenzen von AutoML.
+Zähle auf Beispiele für Transfer Learning.
+Liste Limits von generativer KI.
+Beschreibe Verantwortungsvoller KI-Einsatz.
+Beschreibe Vorteile und Grenzen von AutoML.
+Erkläre Transferierbarkeit von ML-Modellen.
+Was sind KI in kleinen und mittleren Unternehmen.
+Gib an Vorteile und Grenzen von AutoML.
+Liste Künstliche Intelligenz in der Industrie 4.0.
+Was sind Risiken von KI-Systemen.
+Was sind Vorteile von KI.
+Erkläre KI und Datenschutz.
+Beschreibe Schnittstellen zwischen Mensch und KI.
+Zähle auf Best Practices für Feature Engineering.
+Liste Sinn und Unsinn von KI-Ethik-Richtlinien.
+Liste Arten von Datensätzen im ML.
+Führe auf ML in der Bildverarbeitung.
+Beschreibe Sinn und Unsinn von KI-Ethik-Richtlinien.
+Gib an Anwendungsgebiete für Natural Language Processing.
+Erkläre Konzepte der Datenanonymisierung.
+Liste Cloud-Anbieter für AIaaS.
+Was sind Schritte im Data-Science-Prozess.
+Führe auf Einsatz von KI für Nachhaltigkeit.
+Erkläre Möglichkeiten zur Datenbereinigung.
+Was sind Möglichkeiten zur Datenbereinigung.
+Erkläre KI in kleinen und mittleren Unternehmen.
+Was sind Beispiele für Transfer Learning.
+Was sind Anwendungsgebiete für Natural Language Processing.
+Beschreibe Einsatz von KI in der Sprachverarbeitung.
+Zähle auf Möglichkeiten zur Datenbereinigung.
+Nenne Cloud-Services mit GPU-Unterstützung.
+Liste Sicherheitsaspekte beim Model Deployment.
+Führe auf Tipps für Data Labeling.
+Was sind Aktuelle Forschungstrends in KI.
+Führe auf Zukunftsperspektiven von AIaaS.
+Erkläre Automatisierung durch KI.
+Nenne Vorteile von KI.
+Nenne Probleme bei Big Data.
+Liste Vorteile von KI.

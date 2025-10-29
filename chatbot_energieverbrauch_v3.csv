@@ -1,0 +1,257 @@
+Modell,Prompt,Prompt_Laenge,Prompt_Woerter,Enthaelt_Ausfuehrlich_Schluesselwort,Enthaelt_Kurz_Schluesselwort,Anzahl_Sonderzeichen,Anzahl_Zahlen,Energieverbrauch,Dauer (Sekunden)
+Chatbot 1 lang,"Erörtere, was versteht man unter AI as a Service?",49,9,1,0,2,0,0.0002879690794412627,38.969959020614624
+Chatbot 2 kurz,Was versteht man unter AI as a Service? (knapp),47,9,0,1,3,0,3.3197700767040845e-05,4.516157150268555
+Chatbot 1 lang,Nenne die Hauptvorteile von Machine Learning in der Cloud. (ausführliche erklärung),83,11,1,0,3,0,0.0004761485084976667,64.33185720443726
+Chatbot 2 kurz,Nenne die Hauptvorteile von Machine Learning in der Cloud. (so knapp wie möglich),81,13,0,1,3,0,5.3645237625222314e-05,7.30256462097168
+Chatbot 1 lang,Welche Herausforderungen gibt es bei KI-Ethik? (beantworte ausführlich),71,9,1,0,4,0,0.0006915635698699869,93.42661595344543
+Chatbot 2 kurz,Welche Herausforderungen gibt es bei KI-Ethik? (so kurz wie möglich),68,11,0,1,4,0,3.804557205495826e-05,5.199717998504639
+Chatbot 1 lang,Wie funktioniert supervised learning? (erklären sie),52,6,1,0,3,0,0.0002777126757134992,37.526268005371094
+Chatbot 2 kurz,Wie funktioniert supervised learning? (eine zeile),50,6,0,1,3,0,6.492053657215377e-05,8.839714765548706
+Chatbot 1 lang,Was ist der Unterschied zwischen klassischem Programmieren und ML? (mit hintergrundwissen),90,11,1,0,3,0,0.0004691846489532753,63.39743638038635
+Chatbot 2 kurz,Was ist der Unterschied zwischen klassischem Programmieren und ML? (kurz und bündig),84,12,0,1,3,0,5.960263361877821e-05,8.074424982070923
+Chatbot 1 lang,Wofür wird Reinforcement Learning eingesetzt? (mit hintergrundwissen),69,7,1,0,3,0,0.0004416779662679445,59.675604820251465
+Chatbot 2 kurz,Wofür wird Reinforcement Learning eingesetzt? (in kurzform),59,7,0,1,3,0,3.6914576689861134e-05,5.018720865249634
+Chatbot 1 lang,Was ist ein neuronales Netz? (ausführlich),42,6,1,0,3,0,0.0006643770374588346,89.76820635795593
+Chatbot 2 kurz,Was ist ein neuronales Netz? (kurze antwort),44,7,0,1,3,0,3.6275579837054836e-05,4.942476987838745
+Chatbot 1 lang,Erkläre Overfitting mit einem Beispiel. (mit hintergrundwissen),63,7,1,0,3,0,0.00038568775176452905,52.103644609451294
+Chatbot 2 kurz,Erkläre Overfitting mit einem Beispiel. (kurze antwort),55,7,1,1,3,0,4.300736548799982e-05,5.854530572891235
+Chatbot 1 lang,Wie kann man Daten für ML-Anwendungen vorverarbeiten? (in eigenen worten),73,11,1,0,4,0,0.000461559685604307,62.359522104263306
+Chatbot 2 kurz,Wie kann man Daten für ML-Anwendungen vorverarbeiten? (in einem satz),69,11,0,1,4,0,3.85630113606253e-05,5.2370781898498535
+Chatbot 1 lang,Nennen Welche Bedeutung haben GPUs für KI?,42,7,1,0,1,0,0.00023417098837984592,31.666391134262085
+Chatbot 2 kurz,Welche Bedeutung haben GPUs für KI? (kurze antwort),51,8,0,1,3,0,3.3403202445610926e-05,4.533409357070923
+Chatbot 1 lang,"Erörtere, was ist Transfer Learning?",36,5,1,0,2,0,0.00033848371874924864,45.74072289466858
+Chatbot 2 kurz,Was ist Transfer Learning? (in kurzform),40,6,0,1,3,0,2.8768360514084477e-05,3.9086101055145264
+Chatbot 1 lang,Erörtere Nenne bekannte Anbieter von AIaaS.,43,6,1,0,1,0,0.0005090016202014748,68.7590184211731
+Chatbot 2 kurz,Nenne bekannte Anbieter von AIaaS. (kurz beschreiben),53,7,1,1,3,0,0.00017653580045387288,23.888150930404663
+Chatbot 1 lang,"Beschreibe, wie lässt sich KI für die Automatisierung nutzen?",61,9,1,0,2,0,0.00038703730586944047,52.29544973373413
+Chatbot 2 kurz,Wie lässt sich KI für die Automatisierung nutzen? (kurz zusammengefasst),72,10,0,1,3,0,9.626854942891525e-05,13.042344808578491
+Chatbot 1 lang,Was sind Biases in ML-Modellen? (in eigenen worten),51,9,1,0,4,0,0.00032400631960393024,43.77874279022217
+Chatbot 2 kurz,Was sind Biases in ML-Modellen? (stichpunktartig),49,7,0,1,4,0,0.0001842555115704597,24.933162212371826
+Chatbot 1 lang,"Erläutere, was ist ein Hyperparameter in ML?",44,7,1,0,2,0,0.00025415776959925035,34.35472536087036
+Chatbot 2 kurz,Was ist ein Hyperparameter in ML? (kurz zusammengefasst),56,8,0,1,3,0,4.996635786703981e-05,6.792975664138794
+Chatbot 1 lang,"Erläutere, wie funktioniert Feature Engineering?",48,5,1,0,2,0,0.0005246291764968901,70.84539246559143
+Chatbot 2 kurz,Wie funktioniert Feature Engineering? (in kurzform),51,6,0,1,3,0,4.403658360561147e-05,5.974006414413452
+Chatbot 1 lang,"Beschreibe, was ist die Rolle von APIs im Kontext von AIaaS?",60,11,1,0,2,0,0.00031018550450308345,41.92689609527588
+Chatbot 2 kurz,Was ist die Rolle von APIs im Kontext von AIaaS? (in drei worten),65,13,0,1,3,0,2.6045503775432163e-05,3.5581154823303223
+Chatbot 1 lang,Wie wird Natural Language Processing in der Industrie eingesetzt? (liefere details),83,11,1,0,3,0,0.0004524476244598045,61.13970756530762
+Chatbot 2 kurz,Wie wird Natural Language Processing in der Industrie eingesetzt? (knapp),73,10,0,1,3,0,3.5428723225182386e-05,4.834490060806274
+Chatbot 1 lang,Erörtere Welche Programmiersprachen sind am wichtigsten für KI?,63,8,1,0,1,0,0.0003537427303639592,47.81258296966553
+Chatbot 2 kurz,Welche Programmiersprachen sind am wichtigsten für KI? (nur das wichtigste),75,10,0,1,3,0,8.32488012790416e-05,11.290678977966309
+Chatbot 1 lang,Erkläre den Begriff Big Data. (in eigenen worten),49,8,1,0,3,0,0.00021190978867723537,28.65035319328308
+Chatbot 2 kurz,Erkläre den Begriff Big Data. (kurz),36,6,1,1,3,0,3.28658277089854e-05,4.479262351989746
+Chatbot 1 lang,"Nennen, was sind die Risiken von generativer KI?",48,8,1,0,2,0,0.00035028622963917915,47.329736948013306
+Chatbot 2 kurz,Was sind die Risiken von generativer KI? (in einem satz),56,10,0,1,3,0,3.968083093505602e-05,5.397611618041992
+Chatbot 1 lang,Wie kann man ML-Modelle überwachen? (ausführlich),49,7,1,0,4,0,0.0006441531637530082,87.01477217674255
+Chatbot 2 kurz,Wie kann man ML-Modelle überwachen? (nur das wichtigste),56,9,0,1,4,0,0.00040678251537117223,54.95291185379028
+Chatbot 1 lang,Was ist Explainable AI (XAI)? (begründe),40,6,1,0,5,0,0.0003239668304327502,43.77363729476929
+Chatbot 2 kurz,Was ist Explainable AI (XAI)? (stichpunkte),43,6,0,1,5,0,0.0001373722476614709,18.594045400619507
+Chatbot 1 lang,"Erläutere, wie funktioniert ein Decision Tree?",46,6,1,0,2,0,0.0003993676521905454,53.960153102874756
+Chatbot 2 kurz,Wie funktioniert ein Decision Tree? (stichpunktartig),53,6,0,1,3,0,0.0002179980368688325,29.4672372341156
+Chatbot 1 lang,Erkläre Data Augmentation. (mit beispiel),41,5,1,0,3,0,0.0003283926328242203,44.381343603134155
+Chatbot 2 kurz,Erkläre Data Augmentation. (in wenigen worten),46,6,1,1,3,0,3.23538772579024e-05,4.401500463485718
+Chatbot 1 lang,Welche Cloud-Plattformen bieten KI-Dienste? (mit hintergrundwissen),67,8,1,0,5,0,0.00046781288514590017,63.19923710823059
+Chatbot 2 kurz,Welche Cloud-Plattformen bieten KI-Dienste? (knapp),51,7,0,1,5,0,3.682454455415294e-05,5.012387275695801
+Chatbot 1 lang,Wie kann man Deep Learning effizient trainieren? (in eigenen worten),68,10,1,0,3,0,0.0003597307131504726,48.60340332984924
+Chatbot 2 kurz,Wie kann man Deep Learning effizient trainieren? (nur das wichtigste),69,10,0,1,3,0,0.00037785588589917874,51.06576657295227
+Chatbot 1 lang,Was sind Use Cases für KI im Gesundheitswesen? (beantworte ausführlich),71,10,1,0,3,0,0.0005246541775046521,70.87916707992554
+Chatbot 2 kurz,Was sind Use Cases für KI im Gesundheitswesen? (maximal ein satz),65,11,0,1,3,0,4.0499743488777535e-05,5.512284994125366
+Chatbot 1 lang,"Erläutere, wie funktioniert ein Recommendation System?",54,6,1,0,2,0,0.00036974591531697043,49.97585415840149
+Chatbot 2 kurz,Wie funktioniert ein Recommendation System? (stichpunkte),57,6,0,1,3,0,0.0002587296101255947,34.97283959388733
+Chatbot 1 lang,Was ist unsupervised learning? (mit beispiel),45,6,1,0,3,0,0.00020794577535723966,28.113092184066772
+Chatbot 2 kurz,Was ist unsupervised learning? (prägnant),41,5,0,1,3,0,3.2680589607471494e-05,4.456106662750244
+Chatbot 1 lang,Was ist ein Random Forest? (ausführliche erklärung),51,7,1,0,3,0,0.00047506643007550934,64.18449878692627
+Chatbot 2 kurz,Was ist ein Random Forest? (in einem satz),42,8,0,1,3,0,3.436172142837393e-05,4.674072265625
+Chatbot 1 lang,Wie erkennt man Anomalien mit ML? (erklären sie),48,8,1,0,3,0,0.0004582702565337366,61.905847787857056
+Chatbot 2 kurz,Wie erkennt man Anomalien mit ML? (so kurz wie möglich),55,10,0,1,3,0,3.225722854978998e-05,4.390190362930298
+Chatbot 1 lang,Beschreibe Welche Rolle spielt Data Privacy bei AIaaS?,54,8,1,0,1,0,0.0003819740497901243,51.61998271942139
+Chatbot 2 kurz,Welche Rolle spielt Data Privacy bei AIaaS? (kurz zusammengefasst),66,9,0,1,3,0,7.483713533376372e-05,10.148876905441284
+Chatbot 1 lang,Wie funktioniert der Turing-Test? (liefere details),51,7,1,0,4,0,0.0005487169112386109,74.11887502670288
+Chatbot 2 kurz,Wie funktioniert der Turing-Test? (stichpunktartig),51,6,0,1,4,0,0.00024868328011131975,33.60717725753784
+Chatbot 1 lang,Erkläre Computer Vision. (genau),32,4,1,0,3,0,0.0003067435144812678,41.460301876068115
+Chatbot 2 kurz,Erkläre Computer Vision. (in kurzform),38,5,1,1,3,0,3.05807626256511e-05,4.165660619735718
+Chatbot 1 lang,"Erläutere, wie kann man Modelle gegen Angriffe absichern?",57,8,1,0,2,0,0.0005758697058712054,77.81560015678406
+Chatbot 2 kurz,Wie kann man Modelle gegen Angriffe absichern? (in wenigen worten),66,10,0,1,3,0,3.490351814794568e-05,4.746527194976807
+Chatbot 1 lang,Was ist ein Pretrained Model? (begründe),40,6,1,0,3,0,0.00027389832653745746,37.03496170043945
+Chatbot 2 kurz,Was ist ein Pretrained Model? (kurz beschreiben),48,7,1,1,3,0,6.14935661389971e-05,8.348389148712158
+Chatbot 1 lang,Wie funktioniert Federated Learning? (erklären sie),51,6,1,0,3,0,0.0003139053953276906,42.42727065086365
+Chatbot 2 kurz,Wie funktioniert Federated Learning? (kurz zusammengefasst),59,6,0,1,3,0,0.00010202879078168255,13.820091724395752
+Chatbot 1 lang,Was ist die Rolle von Open Source in KI? (ausführliche erklärung),65,11,1,0,3,0,0.00046398737561632674,62.679280042648315
+Chatbot 2 kurz,Was ist die Rolle von Open Source in KI? (stichpunktartig),58,10,0,1,3,0,0.0001628199298823056,22.015987157821655
+Chatbot 1 lang,Wie werden ML-Modelle in Produktion gebracht? (mit beispiel),60,9,1,0,4,0,0.0003863549135206694,52.205992698669434
+Chatbot 2 kurz,Wie werden ML-Modelle in Produktion gebracht? (kurz erklären),61,9,1,1,4,0,0.000150341397397435,20.34021234512329
+Chatbot 1 lang,Was ist der Unterschied zwischen KI und ML? (mit beispiel),58,10,1,0,3,0,0.00021129815895497463,28.574604034423828
+Chatbot 2 kurz,Was ist der Unterschied zwischen KI und ML? (in kurzform),57,10,0,1,3,0,2.4415936817428122e-05,3.3276290893554688
+Chatbot 1 lang,Wie kann KI nachhaltiger werden? (in eigenen worten),52,8,1,0,3,0,0.0004161105764354984,56.23198986053467
+Chatbot 2 kurz,Wie kann KI nachhaltiger werden? (kurze antwort),48,7,0,1,3,0,3.8447473670044146e-05,5.226025104522705
+Chatbot 1 lang,"Erörtere, wie funktioniert sentiment analysis?",46,5,1,0,2,0,0.0004554184963679235,61.532562494277954
+Chatbot 2 kurz,Wie funktioniert sentiment analysis? (kurz),43,5,0,1,3,0,4.160784291232283e-05,5.657358407974243
+Chatbot 1 lang,"Erläutere, wie werden Chatbots trainiert?",41,5,1,0,2,0,0.00044461429098459614,60.06500864028931
+Chatbot 2 kurz,Wie werden Chatbots trainiert? (so kurz wie möglich),52,8,0,1,3,0,3.9968179509485876e-05,5.436184644699097
+Chatbot 1 lang,Erläutere Welche Herausforderungen gibt es bei der Datenqualität?,65,8,1,0,1,0,0.00040625078758337957,54.89593768119812
+Chatbot 2 kurz,Welche Herausforderungen gibt es bei der Datenqualität? (kurz und bündig),73,10,0,1,3,0,3.4191223128915455e-05,4.65599799156189
+Chatbot 1 lang,Wie kann man Bias im Training reduzieren? (liefere eine genaue beschreibung),76,11,1,0,3,0,0.0006170560578728738,83.36761283874512
+Chatbot 2 kurz,Wie kann man Bias im Training reduzieren? (in kurzform),55,9,0,1,3,0,3.56649483096085e-05,4.84421968460083
+Chatbot 1 lang,Was sind die Trends im Bereich AIaaS? (erklären sie),52,9,1,0,3,0,0.000415831005272771,56.192198276519775
+Chatbot 2 kurz,Was sind die Trends im Bereich AIaaS? (maximal ein satz),56,10,0,1,3,0,4.5568711701706095e-05,6.188629865646362
+Chatbot 1 lang,Wie kann man ML-Projekte agil umsetzen? (detailliert),53,8,1,0,4,0,0.0006235101162649369,84.22555232048035
+Chatbot 2 kurz,Wie kann man ML-Projekte agil umsetzen? (stichpunktartig),57,8,0,1,4,0,0.0003845288118121857,51.948973417282104
+Chatbot 1 lang,Was ist ein Datensatz? (ausführlich),36,5,1,0,3,0,0.0003616893459883035,48.88344669342041
+Chatbot 2 kurz,Was ist ein Datensatz? (kurz zusammengefasst),45,6,0,1,3,0,3.97150844775816e-05,5.402458190917969
+Chatbot 1 lang,Wie wichtig ist Datenqualität für KI-Systeme? (ausführliche erklärung),70,9,1,0,4,0,0.0004519563480593958,61.06991910934448
+Chatbot 2 kurz,Wie wichtig ist Datenqualität für KI-Systeme? (kurz und bündig),63,10,0,1,4,0,4.2253518876814e-05,5.743669509887695
+Chatbot 1 lang,"Nennen, was ist der Unterschied zwischen künstlicher Intelligenz und schwacher KI?",82,11,1,0,2,0,0.00018740465601516757,25.347373008728027
+Chatbot 2 kurz,Was ist der Unterschied zwischen künstlicher Intelligenz und schwacher KI? (in wenigen worten),94,13,0,1,3,0,3.4903314128058554e-05,4.771693229675293
+Chatbot 1 lang,Wie kann Explainable AI zur Akzeptanz von KI beitragen? (liefere eine genaue beschreibung),90,13,1,0,3,0,0.0004427481359814622,59.81180953979492
+Chatbot 2 kurz,Wie kann Explainable AI zur Akzeptanz von KI beitragen? (so knapp wie möglich),78,13,0,1,3,0,3.649227848268353e-05,4.95672607421875
+Chatbot 1 lang,Welche regulatorischen Anforderungen gelten für KI-Systeme in Europa? (genau),77,10,1,0,4,0,0.0004437462498490349,59.98550295829773
+Chatbot 2 kurz,Welche regulatorischen Anforderungen gelten für KI-Systeme in Europa? (eine zeile),82,11,0,1,4,0,0.00013446984199210168,18.206167936325073
+Chatbot 1 lang,Was sind Edge AI und ihre Vorteile? (genau),43,8,1,0,3,0,0.00017085413945654686,23.121497631072998
+Chatbot 2 kurz,Was sind Edge AI und ihre Vorteile? (so knapp wie möglich),58,11,0,1,3,0,6.268390653001334e-05,8.511708974838257
+Chatbot 1 lang,Wie können Unternehmen von AIaaS profitieren? (detailliert),59,7,1,0,3,0,0.0004972953774929295,67.20262002944946
+Chatbot 2 kurz,Wie können Unternehmen von AIaaS profitieren? (kurz zusammengefasst),68,8,0,1,3,0,8.653292678487481e-05,11.732711553573608
+Chatbot 1 lang,Welche ethischen Leitlinien sollten bei KI-Projekten beachtet werden? (ausführliche erklärung),94,11,1,0,4,0,0.0007363590546583542,99.47113060951233
+Chatbot 2 kurz,Welche ethischen Leitlinien sollten bei KI-Projekten beachtet werden? (eine zeile),82,11,0,1,4,0,0.00014100622590134843,19.094600677490234
+Chatbot 1 lang,Wie wird die Qualität von Trainingsdaten gemessen? (beantworte ausführlich),75,9,1,0,3,0,0.0005836600558055675,78.85971164703369
+Chatbot 2 kurz,Wie wird die Qualität von Trainingsdaten gemessen? (maximal ein satz),69,10,0,1,3,0,3.9049502711571974e-05,5.308588266372681
+Chatbot 1 lang,Was sind typische Fehlerquellen bei ML-Projekten? (ausführlich),63,8,1,0,4,0,0.0006930650508560344,93.62199401855469
+Chatbot 2 kurz,Was sind typische Fehlerquellen bei ML-Projekten? (stichpunktartig),67,8,0,1,4,0,0.00034177565489409636,46.20095920562744
+Chatbot 1 lang,Wie erfolgt die Evaluation von KI-Modellen? (schritt für schritt),65,10,1,0,4,0,0.0005404923592561417,73.02098369598389
+Chatbot 2 kurz,Wie erfolgt die Evaluation von KI-Modellen? (nur das wichtigste),64,10,0,1,4,0,0.00042967658392256973,58.05822730064392
+Chatbot 1 lang,"Beschreibe, was ist eine Konfusionsmatrix?",42,5,1,0,2,0,0.0002828923673613951,38.2584068775177
+Chatbot 2 kurz,Was ist eine Konfusionsmatrix? (knapp),38,5,0,1,3,0,4.0864133274821145e-05,5.556639909744263
+Chatbot 1 lang,Wie kann Cloud Computing die Entwicklung von KI beschleunigen? (detailliert),76,10,1,0,3,0,0.00044424102866140377,60.051647424697876
+Chatbot 2 kurz,Wie kann Cloud Computing die Entwicklung von KI beschleunigen? (stichpunkte),76,10,0,1,3,0,0.00017914706423919068,24.244844913482666
+Chatbot 1 lang,Wie sieht die Zukunft von AIaaS aus? (begründe),47,8,1,0,3,0,0.00038029245511496986,51.39469313621521
+Chatbot 2 kurz,Wie sieht die Zukunft von AIaaS aus? (so kurz wie möglich),58,11,0,1,3,0,4.5141360298595646e-05,6.141963720321655
+Chatbot 1 lang,Was versteht man unter Model Deployment? (genau),48,7,1,0,3,0,4.472548078146058e-05,6.076385498046875
+Chatbot 2 kurz,Was versteht man unter Model Deployment? (kurz zusammengefasst),63,8,0,1,3,0,4.0326090182586056e-05,5.471648216247559
+Chatbot 1 lang,Wie lassen sich KI-Modelle skalieren? (liefere eine genaue beschreibung),72,10,1,0,4,0,0.0005352312899158081,72.29789996147156
+Chatbot 2 kurz,Wie lassen sich KI-Modelle skalieren? (eine zeile),50,8,0,1,4,0,3.9405499428373894e-05,5.366304636001587
+Chatbot 1 lang,"Erörtere, wie kann man Overfitting verhindern?",46,6,1,0,2,0,0.00042477317869601933,57.402997970581055
+Chatbot 2 kurz,Wie kann man Overfitting verhindern? (kurz zusammengefasst),59,7,0,1,3,0,8.197144926253667e-05,11.125900030136108
+Chatbot 1 lang,Welche Tools gibt es für das Monitoring von ML-Modellen? (liefere details),74,12,1,0,4,0,0.0006602285912174657,89.19281482696533
+Chatbot 2 kurz,Welche Tools gibt es für das Monitoring von ML-Modellen? (kurz),63,11,0,1,4,0,4.420724275062317e-05,5.9925312995910645
+Chatbot 1 lang,"Nennen, wie wird Datenanonymisierung im ML-Kontext umgesetzt?",61,8,1,0,3,0,0.0004009488731015074,54.17399191856384
+Chatbot 2 kurz,Wie wird Datenanonymisierung im ML-Kontext umgesetzt? (kurz erklären),69,9,1,1,4,0,0.00012438531295730506,16.84455633163452
+Chatbot 1 lang,"Erörtere, was sind typische Herausforderungen bei der Integration von KI in bestehende Systeme?",95,13,1,0,2,0,0.00044270161669548677,59.81403207778931
+Chatbot 2 kurz,Was sind typische Herausforderungen bei der Integration von KI in bestehende Systeme? (kurze antwort),101,14,0,1,3,0,3.836234076296832e-05,5.20790433883667
+Chatbot 1 lang,Wie kann man Datensätze für ML synthetisch erzeugen? (in eigenen worten),72,11,1,0,3,0,0.00043014156609575544,58.13114261627197
+Chatbot 2 kurz,Wie kann man Datensätze für ML synthetisch erzeugen? (maximal ein satz),71,11,0,1,3,0,4.2759094870394725e-05,5.824864387512207
+Chatbot 1 lang,Wie können Unternehmen KI verantwortungsvoll einsetzen? (ausführliche erklärung),80,8,1,0,3,0,0.0005916173457547173,79.9240710735321
+Chatbot 2 kurz,Wie können Unternehmen KI verantwortungsvoll einsetzen? (in wenigen worten),75,9,0,1,3,0,3.081151938447015e-05,4.199908256530762
+Chatbot 1 lang,"Erörtere, was ist Transfer Learning und wann ist es sinnvoll?",61,10,1,0,2,0,0.0003506015666101106,47.38276386260986
+Chatbot 2 kurz,Was ist Transfer Learning und wann ist es sinnvoll? (nur das wichtigste),72,12,0,1,3,0,0.00013954364879912318,18.899802923202515
+Chatbot 1 lang,Welche Rolle spielen Datenpipelines in ML-Projekten? (ausführlich),66,8,1,0,4,0,0.0005400213463269669,72.9628005027771
+Chatbot 2 kurz,Welche Rolle spielen Datenpipelines in ML-Projekten? (kurz),59,8,0,1,4,0,4.3707946929447194e-05,5.942429304122925
+Chatbot 1 lang,"Erörtere, wie kann man Modelle für verschiedene Sprachen trainieren?",68,9,1,0,2,0,0.0005672309484352189,76.63158345222473
+Chatbot 2 kurz,Wie kann man Modelle für verschiedene Sprachen trainieren? (in kurzform),72,10,0,1,3,0,6.222486506041534e-05,8.430598974227905
+Chatbot 1 lang,Wie wirkt sich die Größe eines Modells auf dessen Energieverbrauch aus? (ausführliche erklärung),96,13,1,0,3,0,0.0004185688503833553,56.571308851242065
+Chatbot 2 kurz,Wie wirkt sich die Größe eines Modells auf dessen Energieverbrauch aus? (in drei worten),88,14,0,1,3,0,2.618540713383306e-05,3.5617284774780273
+Chatbot 1 lang,"Nennen, was sind aktuelle Trends in der Forschung zu generativer KI?",68,11,1,0,2,0,0.00039853361041920717,53.85517764091492
+Chatbot 2 kurz,Was sind aktuelle Trends in der Forschung zu generativer KI? (prägnant),71,11,0,1,3,0,7.93425376510119e-05,10.745995283126831
+Chatbot 1 lang,"Erkläre, wie kann Bias in Datensätzen erkannt werden?",53,8,1,0,2,0,0.0004540648435584739,61.352230072021484
+Chatbot 2 kurz,Wie kann Bias in Datensätzen erkannt werden? (in wenigen worten),64,10,0,1,3,0,3.666722447920547e-05,4.989058971405029
+Chatbot 1 lang,Wie läuft ein typischer AIaaS-Prozess ab? (genau),49,8,1,0,4,0,0.00039182300908029166,52.9562087059021
+Chatbot 2 kurz,Wie läuft ein typischer AIaaS-Prozess ab? (kurz zusammengefasst),64,9,0,1,4,0,0.00013474788215910223,18.245779752731323
+Chatbot 1 lang,Was sind die wichtigsten Anforderungen an Datensicherheit bei AIaaS? (begründe),79,10,1,0,3,0,0.0005058088949709446,68.3422179222107
+Chatbot 2 kurz,Was sind die wichtigsten Anforderungen an Datensicherheit bei AIaaS? (kurz zusammengefasst),91,11,0,1,3,0,0.000187008948117983,25.3028826713562
+Chatbot 1 lang,"Erläutere, wie wird Explainable AI in der Praxis angewendet?",60,9,1,0,2,0,0.000510523884232227,68.97586345672607
+Chatbot 2 kurz,Wie wird Explainable AI in der Praxis angewendet? (kurz und bündig),67,11,0,1,3,0,9.976640322856913e-05,13.502908706665039
+Chatbot 1 lang,Was bedeutet Zero-Shot Learning? (ausführlich),46,6,1,0,4,0,0.000484694126198336,65.48963332176208
+Chatbot 2 kurz,Was bedeutet Zero-Shot Learning? (knapp),40,6,0,1,4,0,3.2480718264084705e-05,4.436402797698975
+Chatbot 1 lang,Welche Rolle spielt Transfer Learning im KI-Bereich? (begründe),63,9,1,0,4,0,0.0002667386408095876,36.047717809677124
+Chatbot 2 kurz,Welche Rolle spielt Transfer Learning im KI-Bereich? (kurz und bündig),70,11,0,1,4,0,4.6601668208653865e-05,6.329197406768799
+Chatbot 1 lang,Wie können KI-Modelle in Echtzeit eingesetzt werden? (liefere eine genaue beschreibung),87,12,1,0,4,0,0.0005590549893765399,75.54806423187256
+Chatbot 2 kurz,Wie können KI-Modelle in Echtzeit eingesetzt werden? (stichpunktartig),70,9,0,1,4,0,0.000277749445959875,37.555039405822754
+Chatbot 1 lang,Was sind die Vorteile von AutoML? (schritt für schritt),55,9,1,0,3,0,0.000301684236154868,40.77749967575073
+Chatbot 2 kurz,Was sind die Vorteile von AutoML? (kurz erklären),49,8,1,1,3,0,5.262351903745864e-05,7.140315532684326
+Chatbot 1 lang,"Beschreibe, wie wird Fairness in KI-Systemen sichergestellt?",60,8,1,0,3,0,0.0004926134365965195,66.56749987602234
+Chatbot 2 kurz,Wie wird Fairness in KI-Systemen sichergestellt? (kurz zusammengefasst),71,9,0,1,4,0,9.355124990420891e-05,12.672950744628906
+Chatbot 1 lang,Welche KI-Technologien werden in der Industrie am meisten genutzt? (mit beispiel),81,12,1,0,4,0,0.00041575125286117634,56.182827949523926
+Chatbot 2 kurz,Welche KI-Technologien werden in der Industrie am meisten genutzt? (in einem satz),82,13,0,1,4,0,4.436843518232287e-05,6.030123710632324
+Chatbot 1 lang,Was sind die Aufgaben eines Data Scientists? (schritt für schritt),66,10,1,0,3,0,0.00033430846420982803,45.182883739471436
+Chatbot 2 kurz,Was sind die Aufgaben eines Data Scientists? (so knapp wie möglich),67,11,0,1,3,0,3.78405483628168e-05,5.145871162414551
+Chatbot 1 lang,Welche Unterschiede gibt es zwischen Regression und Klassifikation? (mit beispiel),82,10,1,0,3,0,0.00030479388656070574,41.216975688934326
+Chatbot 2 kurz,Welche Unterschiede gibt es zwischen Regression und Klassifikation? (so kurz wie möglich),89,12,0,1,3,0,2.86108143029812e-05,3.8967809677124023
+Chatbot 1 lang,Wie funktioniert Clustering? (begründe),39,4,1,0,3,0,0.0003706807809026076,50.10165309906006
+Chatbot 2 kurz,Wie funktioniert Clustering? (in drei worten),45,6,0,1,3,0,2.2856058418589874e-05,3.123781204223633
+Chatbot 1 lang,Was ist ein Embedding im ML-Kontext? (schritt für schritt),58,10,1,0,4,0,0.0003971023101585472,53.65618824958801
+Chatbot 2 kurz,Was ist ein Embedding im ML-Kontext? (so knapp wie möglich),59,11,0,1,4,0,3.565866072986324e-05,4.867589950561523
+Chatbot 1 lang,Welche Bedeutung hat Feature Selection? (liefere details),57,7,1,0,3,0,0.0003808094050057126,51.461308002471924
+Chatbot 2 kurz,Welche Bedeutung hat Feature Selection? (maximal ein satz),58,8,0,1,3,0,3.391987424283694e-05,4.631738662719727
+Chatbot 1 lang,Wie kann man die Performanz von ML-Modellen steigern? (schritt für schritt),75,12,1,0,4,0,0.0005574222390521754,75.31255984306335
+Chatbot 2 kurz,Wie kann man die Performanz von ML-Modellen steigern? (stichpunktartig),71,10,0,1,4,0,0.000355283431316521,48.0315465927124
+Chatbot 1 lang,Was ist Reinforcement Learning und wofür wird es genutzt? (liefere details),75,11,1,0,3,0,0.00036931166395700124,49.92056393623352
+Chatbot 2 kurz,Was ist Reinforcement Learning und wofür wird es genutzt? (in drei worten),74,12,0,1,3,0,2.8308522768332755e-07,6.193588495254517
+Chatbot 1 lang,Wie kann man Daten für das Training augmentieren? (begründe),60,9,1,0,3,0,0.0003926201273787247,53.06782913208008
+Chatbot 2 kurz,Wie kann man Daten für das Training augmentieren? (nur das wichtigste),70,11,0,1,3,0,0.00016280062566431975,22.125163078308105
+Chatbot 1 lang,Was ist eine ROC-Kurve? (liefere eine genaue beschreibung),58,9,1,0,4,0,0.00043605514924146025,58.93853425979614
+Chatbot 2 kurz,Was ist eine ROC-Kurve? (so knapp wie möglich),46,9,0,1,4,0,4.2145047173826955e-05,5.740751266479492
+Chatbot 1 lang,"Erörtere, wie funktioniert k-Nearest Neighbors?",47,6,1,0,3,0,0.0005015436780308314,67.78100895881653
+Chatbot 2 kurz,Wie funktioniert k-Nearest Neighbors? (in wenigen worten),57,8,0,1,4,0,5.764885366065845e-05,7.8696088790893555
+Chatbot 1 lang,Wie werden Modelle mit Transfer Learning weiterentwickelt? (ausführlich),72,8,1,0,3,0,0.0007443287255883581,100.57656621932983
+Chatbot 2 kurz,Wie werden Modelle mit Transfer Learning weiterentwickelt? (kurze antwort),74,9,0,1,3,0,4.002158266777674e-05,5.486123561859131
+Chatbot 1 lang,Was sind GANs (Generative Adversarial Networks)? (liefere eine genaue beschreibung),83,10,1,0,5,0,0.00040702479555002676,55.01829695701599
+Chatbot 2 kurz,Was sind GANs (Generative Adversarial Networks)? (in einem satz),64,9,0,1,5,0,4.876572769906122e-05,6.650869846343994
+Chatbot 1 lang,Wie lässt sich die Modellgüte bewerten? (detailliert),53,7,1,0,3,0,0.0006533130477732038,88.28519415855408
+Chatbot 2 kurz,Wie lässt sich die Modellgüte bewerten? (prägnant),50,7,0,1,3,0,3.123816052746617e-05,4.279132604598999
+Chatbot 1 lang,Welche Bedeutung haben Labels im Machine Learning? (detailliert),64,8,1,0,3,0,0.0004989107740633146,67.43212866783142
+Chatbot 2 kurz,Welche Bedeutung haben Labels im Machine Learning? (ohne ausschmückung),71,9,0,1,3,0,9.849623984438849e-05,13.377195119857788
+Chatbot 1 lang,Wie funktioniert Cross-Validation? (ausführliche erklärung),59,6,1,0,4,0,0.0005017839047833733,67.81099390983582
+Chatbot 2 kurz,Wie funktioniert Cross-Validation? (kurz beschreiben),53,6,1,1,4,0,0.00017364578973349306,23.51602554321289
+Chatbot 1 lang,"Erörtere, was ist eine Epoch im Training eines ML-Modells?",58,10,1,0,3,0,0.0002908074158814399,39.34709882736206
+Chatbot 2 kurz,Was ist eine Epoch im Training eines ML-Modells? (kurz und bündig),66,12,0,1,4,0,3.8623835636557854e-05,5.281355142593384
+Chatbot 1 lang,"Erkläre, wie kann man Modelle interpretierbar machen?",53,7,1,0,2,0,0.0004462853578948398,60.36053776741028
+Chatbot 2 kurz,Wie kann man Modelle interpretierbar machen? (stichpunkte),58,7,0,1,3,0,0.00027916725720433355,37.74389839172363
+Chatbot 1 lang,"Beschreibe, was sind die wichtigsten Anwendungsfälle für ML in der Industrie?",77,11,1,0,2,0,0.0004074828921578133,55.08014369010925
+Chatbot 2 kurz,Was sind die wichtigsten Anwendungsfälle für ML in der Industrie? (stichpunktartig),83,11,0,1,3,0,0.0001879156281654967,25.420509338378906
+Chatbot 1 lang,Wie kann man Daten für maschinelles Lernen anonymisieren? (detailliert),71,9,1,0,3,0,0.0006500569611397629,87.82121419906616
+Chatbot 2 kurz,Wie kann man Daten für maschinelles Lernen anonymisieren? (stichpunkte),71,9,0,1,3,0,0.0004659478996592724,62.95848250389099
+Chatbot 1 lang,Was versteht man unter Batch Learning? (begründe),49,7,1,0,3,0,0.0002341618929869537,31.661677598953247
+Chatbot 2 kurz,Was versteht man unter Batch Learning? (maximal ein satz),57,9,0,1,3,0,2.90874732286068e-05,3.969569444656372
+Chatbot 1 lang,"Erörtere, was ist Semi-Supervised Learning?",43,6,1,0,3,0,0.0002976732475729125,40.24162435531616
+Chatbot 2 kurz,Was ist Semi-Supervised Learning? (in drei worten),50,8,0,1,4,0,2.5553488014572635e-05,3.491604804992676
+Chatbot 1 lang,Wie können Ausreißer im Datensatz erkannt und behandelt werden? (begründe),74,10,1,0,3,0,0.000541604947223064,73.18527293205261
+Chatbot 2 kurz,Wie können Ausreißer im Datensatz erkannt und behandelt werden? (in wenigen worten),83,12,0,1,3,0,3.8249686546429786e-05,5.200404167175293
+Chatbot 1 lang,"Beschreibe, was sind Herausforderungen bei Multi-Label-Klassifikation?",70,8,1,0,4,0,0.0003784538897806963,51.1457257270813
+Chatbot 2 kurz,Was sind Herausforderungen bei Multi-Label-Klassifikation? (stichpunktartig),76,8,0,1,5,0,0.0001675789477572998,22.68474817276001
+Chatbot 1 lang,Nenne 3 Vorteile von KI in der Industrie. (ausführlich),55,9,1,0,3,1,0.0005088613264751401,68.75931739807129
+Chatbot 2 kurz,Nenne 3 Vorteile von KI in der Industrie. (stichpunktartig),59,9,0,1,3,1,8.533556167586226e-05,11.565747022628784
+Chatbot 1 lang,Erörtere Gib mir 5 Beispiele für Machine-Learning-Algorithmen.,62,9,1,0,3,1,0.00026646029514183555,36.03389310836792
+Chatbot 2 kurz,Gib mir 5 Beispiele für Machine-Learning-Algorithmen. (kurz erklären),69,10,1,1,5,1,0.00020662649958158824,27.950031280517578
+Chatbot 1 lang,Nennen Zähle 10 Anwendungen für Deep Learning auf.,50,8,1,0,1,1,0.00021650240801550244,29.28058409690857
+Chatbot 2 kurz,Zähle 10 Anwendungen für Deep Learning auf. (kurze antwort),59,9,0,1,3,1,5.965321182117538e-05,8.08364725112915
+Chatbot 1 lang,Was sind die 2 Hauptarten von neuronalen Netzen? (schritt für schritt),70,11,1,0,3,1,0.00028150670321760947,38.06032681465149
+Chatbot 2 kurz,Was sind die 2 Hauptarten von neuronalen Netzen? (maximal ein satz),67,11,0,1,3,1,3.830899358316731e-05,5.213935136795044
+Chatbot 1 lang,Welche 4 Schritte umfasst der Data-Science-Prozess? (detailliert),65,9,1,0,5,1,0.00040022707179267897,54.08215117454529
+Chatbot 2 kurz,Welche 4 Schritte umfasst der Data-Science-Prozess? (kurz und bündig),69,11,0,1,5,1,6.125054681131888e-05,8.3085618019104
+Chatbot 1 lang,Nennen Gib 6 Methoden zur Datenvorverarbeitung an.,50,7,1,0,1,1,0.00017215695586415828,23.293766260147095
+Chatbot 2 kurz,Gib 6 Methoden zur Datenvorverarbeitung an. (maximal ein satz),62,9,0,1,3,1,7.822113217306349e-05,10.592433452606201
+Chatbot 1 lang,Was sind 3 Herausforderungen bei der Datensicherheit? (in eigenen worten),73,10,1,0,3,1,0.00010549489747815987,14.29256796836853
+Chatbot 2 kurz,Was sind 3 Herausforderungen bei der Datensicherheit? (so knapp wie möglich),76,11,0,1,3,1,5.276247150233871e-05,7.1880834102630615
+Chatbot 1 lang,Erörtere Nenne 7 bekannte Frameworks für KI.,44,7,1,0,1,1,0.00024812526031852886,33.56275177001953
+Chatbot 2 kurz,Nenne 7 bekannte Frameworks für KI. (nur das wichtigste),56,9,0,1,3,1,0.00019717938338834152,26.678487539291382
+Chatbot 1 lang,Erläutere Welche 8 Programmiersprachen werden im ML eingesetzt?,63,8,1,0,1,1,0.0002989897217787464,40.4242160320282
+Chatbot 2 kurz,Welche 8 Programmiersprachen werden im ML eingesetzt? (so kurz wie möglich),75,11,0,1,3,1,5.081807402525756e-05,6.913163423538208
+Chatbot 1 lang,Zähle 5 Nachteile von Black-Box-Modellen auf. (liefere details),63,10,1,0,5,1,0.00025320582740078455,34.2358672618866
+Chatbot 2 kurz,Zähle 5 Nachteile von Black-Box-Modellen auf. (ohne ausschmückung),66,10,0,1,5,1,0.00012018146632146306,16.276194095611572
+Chatbot 1 lang,Erkläre in 2 Sätzen den Begriff Overfitting. (mit beispiel),59,9,1,0,3,1,5.068010557540133e-05,6.881263494491577
+Chatbot 2 kurz,Erkläre in 2 Sätzen den Begriff Overfitting. (ohne ausschmückung),65,9,1,1,3,1,4.479698467318624e-05,6.103795289993286
+Chatbot 1 lang,Gib 10 Tipps zur Optimierung von Trainingsdaten. (detailliert),62,8,1,0,3,1,0.0006568594461371918,88.73296475410461
+Chatbot 2 kurz,Gib 10 Tipps zur Optimierung von Trainingsdaten. (kurz und bündig),66,10,0,1,3,1,0.00012669417820934353,17.173153400421143
+Chatbot 1 lang,Was sind 4 Kennzahlen zur Bewertung von ML-Modellen? (detailliert),66,10,1,0,4,1,0.0005192276147013017,70.17428612709045
+Chatbot 2 kurz,Was sind 4 Kennzahlen zur Bewertung von ML-Modellen? (knapp),60,10,0,1,4,1,7.055470971813887e-05,9.588184356689453
+Chatbot 1 lang,Nenne 5 Ursachen für Bias in Datensätzen. (in eigenen worten),61,10,1,0,3,1,0.0001861184527312365,25.19244146347046
+Chatbot 2 kurz,Nenne 5 Ursachen für Bias in Datensätzen. (kurze antwort),57,9,0,1,3,1,7.267106802520259e-05,9.860279083251953
+Chatbot 1 lang,Was sind die 3 beliebtesten Cloud-Anbieter für AIaaS? (liefere eine genaue beschreibung),88,13,1,0,4,1,0.0005699610761337233,77.00438809394836
+Chatbot 2 kurz,Was sind die 3 beliebtesten Cloud-Anbieter für AIaaS? (knapp),61,10,0,1,4,1,4.683012106653232e-05,6.364968538284302
+Chatbot 1 lang,Beschreibe 6 typische Anwendungsbereiche von NLP. (genau),57,7,1,0,3,1,0.00016404731194657316,22.202508211135864
+Chatbot 2 kurz,Beschreibe 6 typische Anwendungsbereiche von NLP. (maximal ein satz),68,9,1,1,3,1,8.901443508487497e-05,12.066452741622925
+Chatbot 1 lang,Welche 2 Techniken zur Regularisierung gibt es? (in eigenen worten),67,10,1,0,3,1,0.00017900967493915875,24.218012809753418
+Chatbot 2 kurz,Welche 2 Techniken zur Regularisierung gibt es? (eine zeile),60,9,0,1,3,1,6.775030269552521e-05,9.207032918930054
+Chatbot 1 lang,Gib mir 9 Vorteile von Transfer Learning. (erklären sie),56,9,1,0,3,1,0.00023409351309686458,31.66628670692444
+Chatbot 2 kurz,Gib mir 9 Vorteile von Transfer Learning. (knapp),49,8,0,1,3,1,0.00011822228734945922,16.020419120788574
+Chatbot 1 lang,"Erkläre, was sind 5 ethische Aspekte beim Einsatz von KI?",57,10,1,0,2,1,0.0002598269843251473,35.12931203842163
+Chatbot 2 kurz,Was sind 5 ethische Aspekte beim Einsatz von KI? (stichpunktartig),66,10,0,1,3,1,0.00015832819150082928,21.459335327148438
+Chatbot 1 lang,Nenne 8 Herausforderungen beim Einsatz von KI in KMUs. (detailliert),68,10,1,0,3,1,0.0007777456275250707,105.06449031829834
+Chatbot 2 kurz,Nenne 8 Herausforderungen beim Einsatz von KI in KMUs. (knapp),62,10,0,1,3,1,9.960212446695715e-05,13.505285024642944

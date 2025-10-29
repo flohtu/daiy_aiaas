@@ -1,0 +1,758 @@
+Prompt,Energieverbrauch
+Was versteht man unter AI as a Service?,0.0002680178268886976
+Nenne die Hauptvorteile von Machine Learning in der Cloud.,0.0003424584500974952
+Welche Herausforderungen gibt es bei KI-Ethik?,0.0005123565267463995
+Wie funktioniert supervised learning?,0.00031833090893790245
+Was ist der Unterschied zwischen klassischem Programmieren und ML?,0.00034028254327373277
+Wofür wird Reinforcement Learning eingesetzt?,0.00028088896559701307
+Was ist ein neuronales Netz?,0.00017034795574190137
+Erkläre Overfitting mit einem Beispiel.,0.00040848621509334304
+Wie kann man Daten für ML-Anwendungen vorverarbeiten?,0.00039490122116410853
+Welche Bedeutung haben GPUs für KI?,0.0002790349787718085
+Was ist Transfer Learning?,0.0003169745000610104
+Nenne bekannte Anbieter von AIaaS.,0.00026777940404021464
+Wie lässt sich KI für die Automatisierung nutzen?,0.0005717869608065012
+Was sind Biases in ML-Modellen?,0.0005116624061111266
+Was ist ein Hyperparameter in ML?,0.000259306194670072
+Wie funktioniert Feature Engineering?,0.0003937768051229754
+Was ist die Rolle von APIs im Kontext von AIaaS?,0.00038696510505085817
+Wie wird Natural Language Processing in der Industrie eingesetzt?,0.00035098635626865153
+Welche Programmiersprachen sind am wichtigsten für KI?,0.00041404062947856136
+Erkläre den Begriff Big Data.,0.0002676614059417396
+Was sind die Risiken von generativer KI?,0.0003597212193473733
+Wie kann man ML-Modelle überwachen?,0.0005732844904945235
+Was ist Explainable AI (XAI)?,0.0002833986311813435
+Wie funktioniert ein Decision Tree?,0.00041200728144633086
+Erkläre Data Augmentation.,0.00029511975718310825
+Welche Cloud-Plattformen bieten KI-Dienste?,0.0003150367083627637
+Wie kann man Deep Learning effizient trainieren?,0.000554635069911267
+Was sind Use Cases für KI im Gesundheitswesen?,0.0004862662419810122
+Wie funktioniert ein Recommendation System?,0.00042599892341602173
+Was ist unsupervised learning?,0.0001445717954682515
+Was ist ein Random Forest?,0.00021217227253934182
+Wie erkennt man Anomalien mit ML?,0.0004878999894419892
+Welche Rolle spielt Data Privacy bei AIaaS?,0.0003741557305067816
+Wie funktioniert der Turing-Test?,0.00044320328562352145
+Erkläre Computer Vision.,0.00045074759116972796
+Wie kann man Modelle gegen Angriffe absichern?,0.00046105476791349914
+Was ist ein Pretrained Model?,0.0004645054289922375
+Wie funktioniert Federated Learning?,0.00028183974050120114
+Was ist die Rolle von Open Source in KI?,0.0002767763219890256
+Wie werden ML-Modelle in Produktion gebracht?,0.00043397108745211067
+Was ist der Unterschied zwischen KI und ML?,0.00026082263958376417
+Wie kann KI nachhaltiger werden?,0.00036952397564591304
+Wie funktioniert sentiment analysis?,0.00043969940455996636
+Wie werden Chatbots trainiert?,0.00035302390438046423
+Welche Herausforderungen gibt es bei der Datenqualität?,0.00033120031908559375
+Wie kann man Bias im Training reduzieren?,0.0003973799348783934
+Was sind die Trends im Bereich AIaaS?,0.0004976427321473376
+Wie kann man ML-Projekte agil umsetzen?,0.00048559652119324663
+Was ist ein Datensatz?,0.00015885746089127622
+Wie wichtig ist Datenqualität für KI-Systeme?,0.00038919996981302146
+Was ist der Unterschied zwischen künstlicher Intelligenz und schwacher KI?,0.0002620945559728667
+Wie kann Explainable AI zur Akzeptanz von KI beitragen?,0.000315592533354446
+Welche regulatorischen Anforderungen gelten für KI-Systeme in Europa?,0.0005046710312889929
+Was sind Edge AI und ihre Vorteile?,0.00029976702284651075
+Wie können Unternehmen von AIaaS profitieren?,0.0003919250342627485
+Welche ethischen Leitlinien sollten bei KI-Projekten beachtet werden?,0.0006216057350456849
+Wie wird die Qualität von Trainingsdaten gemessen?,0.0003836454877033598
+Was sind typische Fehlerquellen bei ML-Projekten?,0.00039723181950783334
+Wie erfolgt die Evaluation von KI-Modellen?,0.0005361492895750822
+Was ist eine Konfusionsmatrix?,0.0002701986464860157
+Wie kann Cloud Computing die Entwicklung von KI beschleunigen?,0.0002330409418976902
+Wie sieht die Zukunft von AIaaS aus?,0.0005572928852574675
+Was versteht man unter Model Deployment?,0.00030485002949022554
+Wie lassen sich KI-Modelle skalieren?,0.0005009200259498537
+Wie kann man Overfitting verhindern?,0.0003737154818297749
+Welche Tools gibt es für das Monitoring von ML-Modellen?,0.000513281504351488
+Wie wird Datenanonymisierung im ML-Kontext umgesetzt?,0.00043430380897047414
+Was sind typische Herausforderungen bei der Integration von KI in bestehende Systeme?,0.0004351650361803596
+Wie kann man Datensätze für ML synthetisch erzeugen?,0.00043416327492818514
+Wie können Unternehmen KI verantwortungsvoll einsetzen?,0.0004117504285543208
+Was ist Transfer Learning und wann ist es sinnvoll?,0.00029018527267990886
+Welche Rolle spielen Datenpipelines in ML-Projekten?,0.00028086841376779843
+Wie kann man Modelle für verschiedene Sprachen trainieren?,0.0004972003469757643
+Wie wirkt sich die Größe eines Modells auf dessen Energieverbrauch aus?,0.00033164760189853076
+Was sind aktuelle Trends in der Forschung zu generativer KI?,0.0004665032922727472
+Wie kann Bias in Datensätzen erkannt werden?,0.0004904672823910085
+Wie läuft ein typischer AIaaS-Prozess ab?,0.0005099325133251513
+Was sind die wichtigsten Anforderungen an Datensicherheit bei AIaaS?,0.00045743028802698447
+Wie wird Explainable AI in der Praxis angewendet?,0.0004607106044560563
+Was bedeutet Zero-Shot Learning?,0.00024858122572270094
+Welche Rolle spielt Transfer Learning im KI-Bereich?,0.0002451219770785847
+Wie können KI-Modelle in Echtzeit eingesetzt werden?,0.00042114037864984214
+Was sind die Vorteile von AutoML?,0.0002762949924047666
+Wie wird Fairness in KI-Systemen sichergestellt?,0.0004810034309584347
+Welche KI-Technologien werden in der Industrie am meisten genutzt?,0.0003660747021775435
+Was sind die Aufgaben eines Data Scientists?,0.0004226850567204094
+Welche Unterschiede gibt es zwischen Regression und Klassifikation?,0.00027340935763585757
+Wie funktioniert Clustering?,0.0003425882225139476
+Was ist ein Embedding im ML-Kontext?,0.00036011205002634754
+Welche Bedeutung hat Feature Selection?,0.0001816676268982889
+Wie kann man die Performanz von ML-Modellen steigern?,0.00037404877593715056
+Was ist Reinforcement Learning und wofür wird es genutzt?,0.0003490011213748573
+Wie kann man Daten für das Training augmentieren?,0.000496824840116348
+Was ist eine ROC-Kurve?,0.00020936171190440525
+Wie funktioniert k-Nearest Neighbors?,0.0003648850343749175
+Wie werden Modelle mit Transfer Learning weiterentwickelt?,0.0005121656719604356
+Was sind GANs (Generative Adversarial Networks)?,0.00030504630731108425
+Wie lässt sich die Modellgüte bewerten?,0.00048228096382037304
+Welche Bedeutung haben Labels im Machine Learning?,0.00024535437266316485
+Wie funktioniert Cross-Validation?,0.0003404651892221042
+Was ist eine Epoch im Training eines ML-Modells?,0.00016052687849968104
+Wie kann man Modelle interpretierbar machen?,0.0004707070516075237
+Was sind die wichtigsten Anwendungsfälle für ML in der Industrie?,0.0004781526202046792
+Wie kann man Daten für maschinelles Lernen anonymisieren?,0.0005842157707450047
+Was versteht man unter Batch Learning?,0.00027985476941527054
+Was ist Semi-Supervised Learning?,0.00023763213373168238
+Wie können Ausreißer im Datensatz erkannt und behandelt werden?,0.00043213538135919677
+Was sind Herausforderungen bei Multi-Label-Klassifikation?,0.0003880390547407589
+Gib an Bedeutung von Trainingsdatenmenge.,0.00036566583372769256
+Führe auf gängige ML-Algorithmen.,0.0005004962015087983
+Beschreibe Risiken von KI-Systemen.,0.00044434462780226574
+Erkläre KI in der Finanzbranche.,0.0005317544138686368
+Was sind Cloud-Anbieter für AIaaS.,0.00028652923732922354
+Führe auf Limits von generativer KI.,0.0003815181875599195
+Liste Möglichkeiten zur Datenbereinigung.,0.0004030914600276991
+Was sind Voraussetzungen für erfolgreiches Model-Deployment.,0.00042617268455221136
+Was sind Künstliche Intelligenz in der Industrie 4.0.,0.00040435660619455725
+Zähle auf Anwendungsfelder von Computer Vision.,0.0004819317824048813
+Erkläre Zukunftsperspektiven von AIaaS.,0.0004183477878496649
+Nenne Arten neuronaler Netze.,0.00037910429968383776
+Beschreibe ethische Herausforderungen bei Machine Learning.,0.00043553400075261033
+Nenne KI-Anwendungen in der Medizin.,0.0003430689377104949
+Führe auf Schwachstellen von Chatbots.,0.0004008881588777974
+Liste Konzepte der Datenanonymisierung.,0.0003850611242524061
+Beschreibe Tipps für Data Labeling.,0.0004377456499985021
+Was sind Open-Source-Tools für KI.,0.00030824477525705625
+Gib an Open-Source-Tools für KI.,0.00045057117565858336
+Zähle auf Voraussetzungen für erfolgreiches Model-Deployment.,0.0004338343789943745
+Zähle auf Transferierbarkeit von ML-Modellen.,0.0004241294733012041
+Gib an Schritte im Data-Science-Prozess.,0.00046015198858236187
+Erkläre Vorteile von KI.,0.00037292385386742863
+Erkläre Strategien zur Fehlerbehandlung in KI-Systemen.,0.0005957579746904392
+Was sind KI-Anwendungen in der Medizin.,0.0003651665265838365
+Liste Tipps für Data Labeling.,0.00043861017083859254
+Was sind Kriterien für ein gutes Trainingsset.,0.00040848821857289344
+Gib an Sicherheitsaspekte beim Model Deployment.,0.0004679363549562427
+Führe auf Aktuelle Forschungstrends in KI.,0.0005248775049977443
+Was sind Bedeutung von Trainingsdatenmenge.,0.0002850832696470044
+Gib an Schwachstellen von Chatbots.,0.0004210894092329418
+Führe auf Risiken von KI-Systemen.,0.0004570987841729295
+Zähle auf Konzepte des Transfer Learning.,0.00032724081071099916
+Gib an Probleme bei Big Data.,0.00041639714818939374
+Was sind KI im Bildungswesen.,0.0002297314253336468
+Liste Vorteile und Grenzen von AutoML.,0.0003319117470200825
+Zähle auf Beispiele für Transfer Learning.,0.0003902190566712113
+Liste Limits von generativer KI.,0.0004635095969093394
+Beschreibe Verantwortungsvoller KI-Einsatz.,0.00048645182727612125
+Beschreibe Vorteile und Grenzen von AutoML.,0.0003160524331255702
+Erkläre Transferierbarkeit von ML-Modellen.,0.00039014756695929616
+Was sind KI in kleinen und mittleren Unternehmen.,0.0003355227143984929
+Gib an Vorteile und Grenzen von AutoML.,0.00030110321703492713
+Liste Künstliche Intelligenz in der Industrie 4.0.,0.00040069300104991084
+Was sind Risiken von KI-Systemen.,0.00041517330239930646
+Was sind Vorteile von KI.,0.0002740916723131536
+Erkläre KI und Datenschutz.,0.000493226646308898
+Beschreibe Schnittstellen zwischen Mensch und KI.,0.0004228084159494033
+Zähle auf Best Practices für Feature Engineering.,0.0004171932651183946
+Liste Sinn und Unsinn von KI-Ethik-Richtlinien.,0.0004493917632415969
+Liste Arten von Datensätzen im ML.,0.0004073201877778709
+Führe auf ML in der Bildverarbeitung.,0.0004856992862652532
+Beschreibe Sinn und Unsinn von KI-Ethik-Richtlinien.,0.0003671427207933954
+Gib an Anwendungsgebiete für Natural Language Processing.,0.0003909659704156436
+Erkläre Konzepte der Datenanonymisierung.,0.0004509717844775326
+Liste Cloud-Anbieter für AIaaS.,0.0003529505389130754
+Was sind Schritte im Data-Science-Prozess.,0.0003817525386878079
+Führe auf Einsatz von KI für Nachhaltigkeit.,0.00048807231788874727
+Erkläre Möglichkeiten zur Datenbereinigung.,0.000468170816982891
+Was sind Möglichkeiten zur Datenbereinigung.,0.0004980970935403625
+Erkläre KI in kleinen und mittleren Unternehmen.,0.00040749599747272493
+Was sind Beispiele für Transfer Learning.,0.00035283713359010317
+Was sind Anwendungsgebiete für Natural Language Processing.,0.0003923138920440196
+Beschreibe Einsatz von KI in der Sprachverarbeitung.,0.00040039409032552754
+Zähle auf Möglichkeiten zur Datenbereinigung.,0.00043011692000640057
+Nenne Cloud-Services mit GPU-Unterstützung.,0.0002464475091114197
+Liste Sicherheitsaspekte beim Model Deployment.,0.00048330809581348334
+Führe auf Tipps für Data Labeling.,0.00038787910452352063
+Was sind Aktuelle Forschungstrends in KI.,0.0004494192285725814
+Führe auf Zukunftsperspektiven von AIaaS.,0.00040782684016684763
+Erkläre Automatisierung durch KI.,0.00036988085934129404
+Nenne Vorteile von KI.,0.00030692223368172116
+Nenne Probleme bei Big Data.,0.0003821596829156102
+Liste Vorteile von KI.,0.00034643774956534534
+Gib an Kriterien für ein gutes Trainingsset.,0.0005040153099904372
+Erkläre Open-Source-Tools für KI.,0.0008014165180995878
+Beschreibe Regularisierungstechniken in ML.,0.0005458406953526414
+Führe auf Nachteile von Cloud-Computing.,0.0005007447728652908
+Zähle auf Sicherheitsaspekte beim Model Deployment.,0.0006331980044983317
+Liste Einsatz von KI für Nachhaltigkeit.,0.0005541229759690203
+Gib an Herausforderungen bei Explainable AI.,0.0005009939282392595
+Gib an ethische Herausforderungen bei Machine Learning.,0.0006984746519664582
+Nenne Frameworks für Deep Learning.,0.0005739535408102662
+Liste Regularisierungstechniken in ML.,0.00036780452946128715
+Liste Schwachstellen von Chatbots.,0.00036120540700236
+Liste KI und Datenschutz.,0.0003045928117327559
+Erkläre KI im Bildungswesen.,0.0004119884536275062
+Gib an Arten von Datensätzen im ML.,2.583250144967525e-06
+Zähle auf Schnittstellen zwischen Mensch und KI.,0.00026818142269161184
+Liste Schritte im Data-Science-Prozess.,0.00036183619607577057
+Gib an Frameworks für Deep Learning.,0.00045494551382145576
+Zähle auf Schwachstellen von Chatbots.,0.0003425078622754246
+Zähle auf gängige ML-Algorithmen.,0.00025075153903646993
+Zähle auf Risiken von KI-Systemen.,0.00038179093717797586
+Liste Schnittstellen zwischen Mensch und KI.,0.00034833372903816104
+Nenne Herausforderungen bei Explainable AI.,0.0003208816488686807
+Erkläre Kriterien für ein gutes Trainingsset.,0.0004455711271207246
+Beschreibe Kriterien für ein gutes Trainingsset.,0.0004260311240613216
+Liste Kriterien für ein gutes Trainingsset.,0.0003942253391450304
+Liste KI in der Finanzbranche.,0.0004047515938846143
+Führe auf Frameworks für Deep Learning.,0.0004857505938810747
+Gib an Einsatzmöglichkeiten von KI in der Produktion.,0.00036076722561401506
+Gib an Zukunftsperspektiven von AIaaS.,0.0004344045692931104
+Beschreibe Open-Source-Tools für KI.,0.000519061823991502
+Führe auf Bedeutung von Vortrainierten Modellen.,0.0003555929501227679
+Nenne Einsatz von KI für Nachhaltigkeit.,0.00040261934276679883
+Was sind Sicherheitsaspekte beim Model Deployment.,0.0005137669874547829
+Was sind Anwendungsfelder von Computer Vision.,0.000373317471830594
+Beschreibe Einsatz von KI für Nachhaltigkeit.,0.00046786522492460166
+Erkläre ethische Herausforderungen bei Machine Learning.,0.0005573511586498833
+Führe auf Cloud-Anbieter für AIaaS.,0.0005077704238753379
+Erkläre Regularisierungstechniken in ML.,0.0005024709833462453
+Liste KI-Anwendungen in der Medizin.,0.0004444748764061914
+Liste Anwendungsfelder von Computer Vision.,0.0004248206708859578
+Nenne Zukunftsperspektiven von AIaaS.,0.0004757164488699958
+Was sind Verantwortungsvoller KI-Einsatz.,0.00041420525024864663
+Gib an Limits von generativer KI.,0.0005062458199650175
+Was sind Herausforderungen bei Explainable AI.,0.0003238050241424636
+Beschreibe Zukunftsperspektiven von AIaaS.,0.0004506607359454036
+Erkläre Einsatz von KI für Nachhaltigkeit.,0.000427997305846682
+Erkläre Vorteile und Grenzen von AutoML.,0.0003847075267798539
+Erkläre Konzepte des Transfer Learning.,0.00037503507591031603
+Beschreibe Beispiele für Transfer Learning.,0.0004724320198740082
+Was sind KI und Datenschutz.,0.00034935992611643076
+Liste ML in der Bildverarbeitung.,0.0003947921298882551
+Führe auf Künstliche Intelligenz in der Industrie 4.0.,0.00042252906605513293
+Gib an Cloud-Services mit GPU-Unterstützung.,6.457897077043851e-05
+Zähle auf Kriterien für ein gutes Trainingsset.,0.00040679160356833744
+Liste Strategien zur Fehlerbehandlung in KI-Systemen.,0.0005143823651959402
+Beschreibe Konzepte des Transfer Learning.,0.0004596067058528373
+Beschreibe Schritte im Data-Science-Prozess.,0.0004874316833742244
+Erkläre Cloud-Services mit GPU-Unterstützung.,0.00037481982328739554
+Zähle auf Vorteile und Grenzen von AutoML.,0.00029876875956189
+Nenne Transferierbarkeit von ML-Modellen.,0.000324279831439441
+Gib an Cloud-Anbieter für AIaaS.,0.0004370693034320461
+Beschreibe Herausforderungen bei Explainable AI.,0.00045957749577084904
+Zähle auf Limits von generativer KI.,0.00046622019795739553
+Erkläre Limits von generativer KI.,0.0005285966492661478
+Erkläre Schnittstellen zwischen Mensch und KI.,0.00043267826918306997
+Beschreibe Anwendungsgebiete für Natural Language Processing.,0.0004432502579225522
+Beschreibe KI im Bildungswesen.,0.0004165986068244461
+Was sind KI in der Finanzbranche.,0.00034037672141524534
+Zähle auf Arten von Datensätzen im ML.,0.0003734217590094668
+Erkläre Best Practices für Feature Engineering.,0.0005270738234399695
+Führe auf Einsatz von KI in der Sprachverarbeitung.,0.000470136499723755
+Zähle auf Regularisierungstechniken in ML.,0.00045000187212680334
+Liste Automatisierung durch KI.,0.0003960726947947225
+Führe auf Beispiele für Transfer Learning.,0.00037606899590327073
+Nenne Nachteile von Cloud-Computing.,0.00018358989625967328
+Was sind Einsatz von KI für Nachhaltigkeit.,0.000391951920443898
+Gib an gängige ML-Algorithmen.,0.0004121600324493055
+Beschreibe KI in der Finanzbranche.,0.000478552499398541
+Gib an Arten neuronaler Netze.,0.0004557640342082885
+Nenne Anwendungsgebiete für Natural Language Processing.,0.0003757270976168802
+Was sind Frameworks für Deep Learning.,0.0004242831035579576
+Beschreibe Künstliche Intelligenz in der Industrie 4.0.,0.0004257305037179821
+Gib an KI in kleinen und mittleren Unternehmen.,0.0002063501234253798
+Führe auf KI in kleinen und mittleren Unternehmen.,0.0003819803254122775
+Gib an Metriken zur Bewertung von ML-Modellen.,0.0003915469465729046
+Führe auf Open-Source-Tools für KI.,0.00048179545754261857
+Führe auf Vorteile von KI.,0.00022092937145793676
+Nenne Best Practices für Feature Engineering.,0.00044727531678691925
+Führe auf Arten neuronaler Netze.,0.00043674954458402485
+Liste Frameworks für Deep Learning.,0.0004655899681397534
+Beschreibe Nachteile von Cloud-Computing.,0.0003947071663981122
+Nenne Bedeutung von Trainingsdatenmenge.,0.00018915931975744982
+Führe auf Probleme bei Big Data.,0.00041930722227644676
+Liste Arten neuronaler Netze.,0.00028209140062143234
+Beschreibe Transferierbarkeit von ML-Modellen.,0.00036800726787671544
+Liste Konzepte des Transfer Learning.,0.0004288901333881681
+Nenne Aktuelle Forschungstrends in KI.,0.0004901359981123523
+Erkläre Beispiele für Transfer Learning.,0.0003687902272159822
+Zähle auf ML in der Bildverarbeitung.,0.00040652557274426323
+Beschreibe Best Practices für Feature Engineering.,0.0005833917497576152
+Zähle auf Arten neuronaler Netze.,0.00031925375682086257
+Nenne Cloud-Anbieter für AIaaS.,0.00022419346280325812
+Zähle auf Zukunftsperspektiven von AIaaS.,0.00046332721508628676
+Beschreibe Arten neuronaler Netze.,0.0006591759103893553
+Nenne Risiken von KI-Systemen.,0.00038256392896048746
+Beschreibe Rolle von KI im Umweltschutz.,0.0004561860548510716
+Zähle auf Einsatz von KI für Nachhaltigkeit.,0.00039986538188395963
+Führe auf Kriterien für ein gutes Trainingsset.,0.00041530076075613285
+Zähle auf Open-Source-Tools für KI.,0.00045575227301197807
+Erkläre Schritte im Data-Science-Prozess.,0.0004487089368214496
+Führe auf Vorteile von multimodaler KI.,0.00024663661576018384
+Erkläre Schwachstellen von Chatbots.,0.000407391078234298
+Erkläre Tipps für Data Labeling.,0.000486444228699266
+Nenne Schnittstellen zwischen Mensch und KI.,0.0003790279169866268
+Erkläre Verantwortungsvoller KI-Einsatz.,0.0003928094007989153
+Erkläre Cloud-Anbieter für AIaaS.,0.00036766584948148124
+Gib an Möglichkeiten zur Datenbereinigung.,0.0005196701372265261
+Gib an Automatisierung durch KI.,0.00025924280956357115
+Gib an KI im Bildungswesen.,0.00020328735949896678
+Gib an Transferierbarkeit von ML-Modellen.,0.0003686187217270523
+Beschreibe Bedeutung von Vortrainierten Modellen.,0.00029841009979294283
+Gib an Konzepte der Datenanonymisierung.,0.00035239298440838866
+Was sind Konzepte des Transfer Learning.,0.0002775517330156989
+Beschreibe Cloud-Anbieter für AIaaS.,0.0004551317066259786
+Zähle auf Anwendungsgebiete für Natural Language Processing.,0.0003585411606910319
+Führe auf Regularisierungstechniken in ML.,0.00038682710390279095
+Zähle auf Cloud-Anbieter für AIaaS.,0.0004667476932848833
+Erkläre Voraussetzungen für erfolgreiches Model-Deployment.,0.0004877994321868887
+Was sind Arten neuronaler Netze.,0.0004450079052440527
+Was sind Rolle von KI im Umweltschutz.,0.00035614689756005336
+Zähle auf Frameworks für Deep Learning.,0.0004123392231811962
+Gib an Regularisierungstechniken in ML.,0.00041302011892560173
+Nenne KI in kleinen und mittleren Unternehmen.,0.00028370693094758573
+Nenne Open-Source-Tools für KI.,0.0005501398125041658
+Führe auf Konzepte der Datenanonymisierung.,0.00045031156712241967
+Zähle auf Künstliche Intelligenz in der Industrie 4.0.,0.0003702344607291415
+Beschreibe Aktuelle Forschungstrends in KI.,0.0004280723111980278
+Führe auf Einsatzmöglichkeiten von KI in der Produktion.,0.00040332628120552986
+Liste Anwendungsgebiete für Natural Language Processing.,0.0004243726816224065
+Zähle auf KI und Datenschutz.,0.00014146194379383581
+Führe auf Herausforderungen bei Explainable AI.,0.00042914011013268027
+Was sind Schnittstellen zwischen Mensch und KI.,1.950912862705064e-06
+Zähle auf Probleme bei Big Data.,0.0004159505088645207
+Gib an Beispiele für Transfer Learning.,0.00041833683839427843
+Gib an Aktuelle Forschungstrends in KI.,0.0004505444600583493
+Nenne Strategien zur Fehlerbehandlung in KI-Systemen.,0.00047298205368497204
+Nenne Verantwortungsvoller KI-Einsatz.,0.0004149442990686885
+Erkläre ML in der Bildverarbeitung.,0.00042015954869538706
+Beschreibe Cloud-Services mit GPU-Unterstützung.,0.00043550407744756737
+Erkläre Künstliche Intelligenz in der Industrie 4.0.,0.0005041490013242015
+Liste gängige ML-Algorithmen.,0.0003802739500454128
+Beschreibe Strategien zur Fehlerbehandlung in KI-Systemen.,0.0004886241800480755
+Nenne Limits von generativer KI.,0.00041121115954381976
+Was sind Konzepte der Datenanonymisierung.,0.00034764945490217296
+Zähle auf KI in kleinen und mittleren Unternehmen.,0.0002703523790701638
+Zähle auf Bedeutung von Trainingsdatenmenge.,0.0002540943323237675
+Führe auf Bedeutung von Trainingsdatenmenge.,0.00032224613229830056
+Was sind Einsatz von KI in der Sprachverarbeitung.,0.0003919915170218245
+Gib an KI und Datenschutz.,0.00010305208893631242
+Erkläre Sicherheitsaspekte beim Model Deployment.,0.0004778843228339491
+Erkläre Risiken von KI-Systemen.,0.00040090890075872987
+Was sind Nachteile von Cloud-Computing.,0.0003531181989233936
+Nenne gängige ML-Algorithmen.,0.00044968839831881164
+Nenne ethische Herausforderungen bei Machine Learning.,0.0005513081968419188
+Nenne Sicherheitsaspekte beim Model Deployment.,0.0004857765416553961
+Erkläre Bedeutung von Trainingsdatenmenge.,0.00017460350427682007
+Beschreibe Vorteile von multimodaler KI.,0.0003565888204064836
+Zähle auf Rolle von KI im Umweltschutz.,0.0004328009579400921
+Gib an Vorteile von KI.,0.00031218830828179107
+Liste Zukunftsperspektiven von AIaaS.,0.0004020682980627053
+Erkläre Probleme bei Big Data.,0.00045531466273115604
+Gib an Best Practices für Feature Engineering.,0.0005692670584607405
+Führe auf Vorteile und Grenzen von AutoML.,0.0003751828913885267
+Was sind Tipps für Data Labeling.,0.00037885363088015553
+Gib an Risiken von KI-Systemen.,0.00039414682206964164
+Gib an ML in der Bildverarbeitung.,0.0003338745563397636
+Zähle auf Verantwortungsvoller KI-Einsatz.,0.0003488057385748666
+Was sind Bedeutung von Vortrainierten Modellen.,0.00036981367224797986
+Erkläre Aktuelle Forschungstrends in KI.,0.0005381947960498562
+Führe auf Strategien zur Fehlerbehandlung in KI-Systemen.,0.0004510973123702326
+Was sind Automatisierung durch KI.,0.00033956978910415264
+Erkläre gängige ML-Algorithmen.,0.0005550199742780978
+Zähle auf Vorteile von multimodaler KI.,0.00022068688673008673
+Erkläre Einsatz von KI in der Sprachverarbeitung.,0.000532594165128125
+Gib an Vorteile von multimodaler KI.,0.00033119551001513457
+Erkläre Arten neuronaler Netze.,0.000400136278286033
+Zähle auf Schritte im Data-Science-Prozess.,0.00041808798174859907
+Zähle auf Automatisierung durch KI.,0.0004120191792555843
+Führe auf Voraussetzungen für erfolgreiches Model-Deployment.,0.0003703914993243543
+Nenne Metriken zur Bewertung von ML-Modellen.,0.00040511396992660623
+Beschreibe ML in der Bildverarbeitung.,0.00039606174671502034
+Zähle auf Nachteile von Cloud-Computing.,0.00033189475834321955
+Führe auf Schritte im Data-Science-Prozess.,0.0004591585244211727
+Beschreibe Probleme bei Big Data.,0.0004204597821628386
+Was sind Regularisierungstechniken in ML.,0.00040489625858893945
+Führe auf Automatisierung durch KI.,0.00045716385741703084
+Führe auf Sicherheitsaspekte beim Model Deployment.,0.0005485721526724436
+Gib an Bedeutung von Vortrainierten Modellen.,0.0003319695978754575
+Gib an Schnittstellen zwischen Mensch und KI.,0.0004097079550764698
+Was sind ML in der Bildverarbeitung.,0.00037435559497193635
+Erkläre Anwendungsgebiete für Natural Language Processing.,0.00040875967687621856
+Liste Beispiele für Transfer Learning.,0.000346483248222757
+Erkläre Herausforderungen bei Explainable AI.,0.00039591787565656047
+Nenne Voraussetzungen für erfolgreiches Model-Deployment.,0.0005131932865959633
+Gib an Strategien zur Fehlerbehandlung in KI-Systemen.,0.0005428489685483856
+Beschreibe Arten von Datensätzen im ML.,0.0004150926480885758
+Führe auf Konzepte des Transfer Learning.,0.00044014562843767735
+Nenne Konzepte der Datenanonymisierung.,0.0003905958906123087
+Nenne KI in der Finanzbranche.,0.0001728683649628042
+Erkläre Arten von Datensätzen im ML.,0.0004777245102878015
+Liste Rolle von KI im Umweltschutz.,0.0003899289033523583
+Beschreibe Möglichkeiten zur Datenbereinigung.,0.00039147706066046915
+Nenne Einsatzmöglichkeiten von KI in der Produktion.,0.00033407147394496207
+Beschreibe Automatisierung durch KI.,0.00034957241854496033
+Zähle auf Sinn und Unsinn von KI-Ethik-Richtlinien.,0.00033057297051979827
+Zähle auf Vorteile von KI.,0.0002514218466988543
+Zähle auf Strategien zur Fehlerbehandlung in KI-Systemen.,0.00046417559105375276
+Was sind Einsatzmöglichkeiten von KI in der Produktion.,0.00035395604321061407
+Was sind Zukunftsperspektiven von AIaaS.,0.0004217177558877495
+Was sind ethische Herausforderungen bei Machine Learning.,0.0004822348063311306
+Gib an Nachteile von Cloud-Computing.,0.0003568780427257875
+Nenne Künstliche Intelligenz in der Industrie 4.0.,0.00029415816880156467
+Nenne Möglichkeiten zur Datenbereinigung.,0.00039991316761702676
+Was sind Transferierbarkeit von ML-Modellen.,0.0003819017751095535
+Beschreibe Frameworks für Deep Learning.,0.000601059714041189
+Erkläre Nachteile von Cloud-Computing.,0.0003009102863889062
+Zähle auf ethische Herausforderungen bei Machine Learning.,0.0005068220754110334
+Zähle auf Aktuelle Forschungstrends in KI.,0.00043121412066210744
+Beschreibe Einsatzmöglichkeiten von KI in der Produktion.,0.00039235086705103006
+Liste KI in kleinen und mittleren Unternehmen.,0.0003923048948515597
+Liste Voraussetzungen für erfolgreiches Model-Deployment.,0.0004962913494824181
+Zähle auf Tipps für Data Labeling.,0.00040288600829593905
+Was sind Sinn und Unsinn von KI-Ethik-Richtlinien.,0.0004409659626756795
+Führe auf Möglichkeiten zur Datenbereinigung.,0.0003924545800536333
+Gib an Anwendungsfelder von Computer Vision.,0.00043408573001598756
+Führe auf Anwendungsfelder von Computer Vision.,0.0004882340561370985
+Gib an KI in der Finanzbranche.,0.00035048077762959344
+Nenne Vorteile und Grenzen von AutoML.,0.0003032939964641586
+Führe auf KI und Datenschutz.,0.0004674904113942081
+Führe auf Cloud-Services mit GPU-Unterstützung.,0.00043149502483236544
+Liste Best Practices für Feature Engineering.,0.00048368743249020674
+Führe auf Schnittstellen zwischen Mensch und KI.,0.0004946980515041149
+Liste Nachteile von Cloud-Computing.,0.0003634304497095084
+Nenne Sinn und Unsinn von KI-Ethik-Richtlinien.,0.00031018677126763646
+Gib an Konzepte des Transfer Learning.,0.0003464300357511441
+Liste Vorteile von multimodaler KI.,0.00034226353988714545
+Was sind Limits von generativer KI.,0.00040147075058046455
+Erkläre Sinn und Unsinn von KI-Ethik-Richtlinien.,0.0003314529639616087
+Nenne Einsatz von KI in der Sprachverarbeitung.,0.00031938339103709893
+Liste Herausforderungen bei Explainable AI.,0.000389134472127141
+Nenne ML in der Bildverarbeitung.,0.0003699461353354027
+Führe auf KI in der Finanzbranche.,0.0004421368090086256
+Gib an Einsatz von KI in der Sprachverarbeitung.,0.00040343710538066744
+Erkläre Frameworks für Deep Learning.,0.00057030320923343
+Was sind Schwachstellen von Chatbots.,0.0003631082630459227
+Nenne Anwendungsfelder von Computer Vision.,0.000373438515941797
+Nenne KI und Datenschutz.,0.0003398912790524503
+Führe auf ethische Herausforderungen bei Machine Learning.,0.000512626934368508
+Nenne Tipps für Data Labeling.,0.0004226113569693765
+Nenne Schritte im Data-Science-Prozess.,0.0004566153039142886
+Liste Probleme bei Big Data.,0.00035272528328389506
+Liste Cloud-Services mit GPU-Unterstützung.,0.00035340281068951677
+Führe auf Anwendungsgebiete für Natural Language Processing.,0.0003861002449536421
+Zähle auf KI in der Finanzbranche.,0.00037647873979738977
+Zähle auf Konzepte der Datenanonymisierung.,0.00038811576791206284
+Beschreibe Konzepte der Datenanonymisierung.,0.00046690000005778046
+Liste Transferierbarkeit von ML-Modellen.,0.0004011358471709927
+Liste Aktuelle Forschungstrends in KI.,0.000467373219639856
+Nenne Bedeutung von Vortrainierten Modellen.,0.00032660324739420735
+Beschreibe Anwendungsfelder von Computer Vision.,0.0005065451190467607
+Nenne Kriterien für ein gutes Trainingsset.,0.00047228521602965556
+Erkläre Rolle von KI im Umweltschutz.,0.00036686771764446235
+Führe auf Rolle von KI im Umweltschutz.,0.00037674023329532086
+Führe auf Metriken zur Bewertung von ML-Modellen.,0.0005699168893199385
+Erkläre Metriken zur Bewertung von ML-Modellen.,0.0006346807711039604
+Was sind Probleme bei Big Data.,0.0003312094513036284
+Führe auf KI im Bildungswesen.,0.000514300045816263
+Liste Bedeutung von Vortrainierten Modellen.,0.00036817489942156726
+Gib an Einsatz von KI für Nachhaltigkeit.,0.0004108501354510177
+Liste KI im Bildungswesen.,0.00040121018871696376
+Liste Metriken zur Bewertung von ML-Modellen.,0.0004815273047212741
+Liste Einsatzmöglichkeiten von KI in der Produktion.,0.0004536754976320939
+Nenne KI im Bildungswesen.,0.0001579794699766436
+Liste Risiken von KI-Systemen.,0.00048207201560249353
+Nenne Automatisierung durch KI.,0.0001990576233953147
+Zähle auf Bedeutung von Vortrainierten Modellen.,0.0002789111477997126
+Erkläre KI-Anwendungen in der Medizin.,0.0003166606126048413
+Liste Verantwortungsvoller KI-Einsatz.,0.00046458847736204593
+Zähle auf KI-Anwendungen in der Medizin.,0.00035514673735604924
+Beschreibe KI-Anwendungen in der Medizin.,0.00042839170475735764
+Erkläre Einsatzmöglichkeiten von KI in der Produktion.,0.0004423382515591192
+Nenne Arten von Datensätzen im ML.,0.00038196598899393954
+Was sind Vorteile und Grenzen von AutoML.,0.0003012029858293642
+Was sind Metriken zur Bewertung von ML-Modellen.,0.00045111149418634953
+Beschreibe Sicherheitsaspekte beim Model Deployment.,0.000552754924201901
+Nenne Konzepte des Transfer Learning.,0.0003535014363165066
+Beschreibe Vorteile von KI.,2.067499629359291e-06
+Beschreibe Voraussetzungen für erfolgreiches Model-Deployment.,0.0005116148019642219
+Zähle auf Einsatzmöglichkeiten von KI in der Produktion.,0.0003695215478303689
+Zähle auf Cloud-Services mit GPU-Unterstützung.,0.00026893819912576485
+Beschreibe Schwachstellen von Chatbots.,0.0004394093821398148
+Beschreibe Metriken zur Bewertung von ML-Modellen.,0.0005655594703105906
+Was sind Vorteile von multimodaler KI.,0.00034015705241782106
+Gib an Rolle von KI im Umweltschutz.,0.0002949651152924708
+Gib an Tipps für Data Labeling.,0.00036017087770101456
+Gib an Sinn und Unsinn von KI-Ethik-Richtlinien.,0.00028468375108578166
+Was sind Strategien zur Fehlerbehandlung in KI-Systemen.,0.00046428912695790307
+Liste ethische Herausforderungen bei Machine Learning.,0.0006278513291321985
+Führe auf Sinn und Unsinn von KI-Ethik-Richtlinien.,0.0003311104434568437
+Nenne Regularisierungstechniken in ML.,0.00039194231616536125
+Was sind gängige ML-Algorithmen.,0.0004119497059331479
+Liste Bedeutung von Trainingsdatenmenge.,0.00015777770859213828
+Was sind Best Practices für Feature Engineering.,0.0004159006578533294
+Nenne Rolle von KI im Umweltschutz.,0.00038178225596238085
+Gib an Voraussetzungen für erfolgreiches Model-Deployment.,0.0005431090669227823
+Beschreibe Limits von generativer KI.,0.00044402746237715083
+Beschreibe gängige ML-Algorithmen.,0.00038724335876147973
+Zähle auf Einsatz von KI in der Sprachverarbeitung.,0.00034648764438576613
+Erörtere  was versteht man unter AI as a Service?,0.0002879690794412
+Was versteht man unter AI as a Service? (knapp),3.3197700767040845e-05
+Nenne die Hauptvorteile von Machine Learning in der Cloud. (ausführliche erklärung),0.0004761485084976
+Nenne die Hauptvorteile von Machine Learning in der Cloud. (so knapp wie möglich),5.364523762522232e-05
+Welche Herausforderungen gibt es bei KI-Ethik? (beantworte ausführlich),0.0006915635698699
+Welche Herausforderungen gibt es bei KI-Ethik? (so kurz wie möglich),3.804557205495826e-05
+Wie funktioniert supervised learning? (erklären sie),0.0002777126757134
+Wie funktioniert supervised learning? (eine zeile),6.492053657215377e-05
+Was ist der Unterschied zwischen klassischem Programmieren und ML? (mit hintergrundwissen),0.0004691846489532
+Was ist der Unterschied zwischen klassischem Programmieren und ML? (kurz und bündig),5.960263361877821e-05
+Wofür wird Reinforcement Learning eingesetzt? (mit hintergrundwissen),0.0004416779662679
+Wofür wird Reinforcement Learning eingesetzt? (in kurzform),3.6914576689861134e-05
+Was ist ein neuronales Netz? (ausführlich),0.0006643770374588
+Was ist ein neuronales Netz? (kurze antwort),3.627557983705484e-05
+Erkläre Overfitting mit einem Beispiel. (mit hintergrundwissen),0.0003856877517645
+Erkläre Overfitting mit einem Beispiel. (kurze antwort),4.300736548799982e-05
+Wie kann man Daten für ML-Anwendungen vorverarbeiten? (in eigenen worten),0.0004615596856043
+Wie kann man Daten für ML-Anwendungen vorverarbeiten? (in einem satz),3.85630113606253e-05
+Nennen Welche Bedeutung haben GPUs für KI?,0.0002341709883798
+Welche Bedeutung haben GPUs für KI? (kurze antwort),3.3403202445610926e-05
+Erörtere  was ist Transfer Learning?,0.0003384837187492
+Was ist Transfer Learning? (in kurzform),2.876836051408448e-05
+Erörtere Nenne bekannte Anbieter von AIaaS.,0.0005090016202014
+Nenne bekannte Anbieter von AIaaS. (kurz beschreiben),0.0001765358004538
+Beschreibe  wie lässt sich KI für die Automatisierung nutzen?,0.0003870373058694
+Wie lässt sich KI für die Automatisierung nutzen? (kurz zusammengefasst),9.626854942891524e-05
+Was sind Biases in ML-Modellen? (in eigenen worten),0.0003240063196039
+Was sind Biases in ML-Modellen? (stichpunktartig),0.0001842555115704
+Erläutere  was ist ein Hyperparameter in ML?,0.0002541577695992
+Was ist ein Hyperparameter in ML? (kurz zusammengefasst),4.996635786703981e-05
+Erläutere  wie funktioniert Feature Engineering?,0.0005246291764968
+Wie funktioniert Feature Engineering? (in kurzform),4.403658360561147e-05
+Beschreibe  was ist die Rolle von APIs im Kontext von AIaaS?,0.000310185504503
+Was ist die Rolle von APIs im Kontext von AIaaS? (in drei worten),2.6045503775432163e-05
+Wie wird Natural Language Processing in der Industrie eingesetzt? (liefere details),0.0004524476244598
+Wie wird Natural Language Processing in der Industrie eingesetzt? (knapp),3.5428723225182386e-05
+Erörtere Welche Programmiersprachen sind am wichtigsten für KI?,0.0003537427303639
+Welche Programmiersprachen sind am wichtigsten für KI? (nur das wichtigste),8.32488012790416e-05
+Erkläre den Begriff Big Data. (in eigenen worten),0.0002119097886772
+Erkläre den Begriff Big Data. (kurz),3.28658277089854e-05
+Nennen  was sind die Risiken von generativer KI?,0.0003502862296391
+Was sind die Risiken von generativer KI? (in einem satz),3.968083093505602e-05
+Wie kann man ML-Modelle überwachen? (ausführlich),0.000644153163753
+Wie kann man ML-Modelle überwachen? (nur das wichtigste),0.0004067825153711
+Was ist Explainable AI (XAI)? (begründe),0.0003239668304327
+Was ist Explainable AI (XAI)? (stichpunkte),0.0001373722476614
+Erläutere  wie funktioniert ein Decision Tree?,0.0003993676521905
+Wie funktioniert ein Decision Tree? (stichpunktartig),0.0002179980368688
+Erkläre Data Augmentation. (mit beispiel),0.0003283926328242
+Erkläre Data Augmentation. (in wenigen worten),3.23538772579024e-05
+Welche Cloud-Plattformen bieten KI-Dienste? (mit hintergrundwissen),0.0004678128851459
+Welche Cloud-Plattformen bieten KI-Dienste? (knapp),3.682454455415294e-05
+Wie kann man Deep Learning effizient trainieren? (in eigenen worten),0.0003597307131504
+Wie kann man Deep Learning effizient trainieren? (nur das wichtigste),0.0003778558858991
+Was sind Use Cases für KI im Gesundheitswesen? (beantworte ausführlich),0.0005246541775046
+Was sind Use Cases für KI im Gesundheitswesen? (maximal ein satz),4.0499743488777535e-05
+Erläutere  wie funktioniert ein Recommendation System?,0.0003697459153169
+Wie funktioniert ein Recommendation System? (stichpunkte),0.0002587296101255
+Was ist unsupervised learning? (mit beispiel),0.0002079457753572
+Was ist unsupervised learning? (prägnant),3.2680589607471494e-05
+Was ist ein Random Forest? (ausführliche erklärung),0.0004750664300755
+Was ist ein Random Forest? (in einem satz),3.436172142837393e-05
+Wie erkennt man Anomalien mit ML? (erklären sie),0.0004582702565337
+Wie erkennt man Anomalien mit ML? (so kurz wie möglich),3.225722854978998e-05
+Beschreibe Welche Rolle spielt Data Privacy bei AIaaS?,0.0003819740497901
+Welche Rolle spielt Data Privacy bei AIaaS? (kurz zusammengefasst),7.483713533376372e-05
+Wie funktioniert der Turing-Test? (liefere details),0.0005487169112386
+Wie funktioniert der Turing-Test? (stichpunktartig),0.0002486832801113
+Erkläre Computer Vision. (genau),0.0003067435144812
+Erkläre Computer Vision. (in kurzform),3.05807626256511e-05
+Erläutere  wie kann man Modelle gegen Angriffe absichern?,0.0005758697058712
+Wie kann man Modelle gegen Angriffe absichern? (in wenigen worten),3.490351814794568e-05
+Was ist ein Pretrained Model? (begründe),0.0002738983265374
+Was ist ein Pretrained Model? (kurz beschreiben),6.14935661389971e-05
+Wie funktioniert Federated Learning? (erklären sie),0.0003139053953276
+Wie funktioniert Federated Learning? (kurz zusammengefasst),0.0001020287907816
+Was ist die Rolle von Open Source in KI? (ausführliche erklärung),0.0004639873756163
+Was ist die Rolle von Open Source in KI? (stichpunktartig),0.0001628199298823
+Wie werden ML-Modelle in Produktion gebracht? (mit beispiel),0.0003863549135206
+Wie werden ML-Modelle in Produktion gebracht? (kurz erklären),0.0001503413973974
+Was ist der Unterschied zwischen KI und ML? (mit beispiel),0.0002112981589549
+Was ist der Unterschied zwischen KI und ML? (in kurzform),2.441593681742812e-05
+Wie kann KI nachhaltiger werden? (in eigenen worten),0.0004161105764354
+Wie kann KI nachhaltiger werden? (kurze antwort),3.844747367004415e-05
+Erörtere  wie funktioniert sentiment analysis?,0.0004554184963679
+Wie funktioniert sentiment analysis? (kurz),4.160784291232283e-05
+Erläutere  wie werden Chatbots trainiert?,0.0004446142909845
+Wie werden Chatbots trainiert? (so kurz wie möglich),3.996817950948588e-05
+Erläutere Welche Herausforderungen gibt es bei der Datenqualität?,0.0004062507875833
+Welche Herausforderungen gibt es bei der Datenqualität? (kurz und bündig),3.4191223128915455e-05
+Wie kann man Bias im Training reduzieren? (liefere eine genaue beschreibung),0.0006170560578728
+Wie kann man Bias im Training reduzieren? (in kurzform),3.56649483096085e-05
+Was sind die Trends im Bereich AIaaS? (erklären sie),0.0004158310052727
+Was sind die Trends im Bereich AIaaS? (maximal ein satz),4.5568711701706095e-05
+Wie kann man ML-Projekte agil umsetzen? (detailliert),0.0006235101162649
+Wie kann man ML-Projekte agil umsetzen? (stichpunktartig),0.0003845288118121
+Was ist ein Datensatz? (ausführlich),0.0003616893459883
+Was ist ein Datensatz? (kurz zusammengefasst),3.97150844775816e-05
+Wie wichtig ist Datenqualität für KI-Systeme? (ausführliche erklärung),0.0004519563480593
+Wie wichtig ist Datenqualität für KI-Systeme? (kurz und bündig),4.2253518876814e-05
+Nennen  was ist der Unterschied zwischen künstlicher Intelligenz und schwacher KI?,0.0001874046560151
+Was ist der Unterschied zwischen künstlicher Intelligenz und schwacher KI? (in wenigen worten),3.4903314128058554e-05
+Wie kann Explainable AI zur Akzeptanz von KI beitragen? (liefere eine genaue beschreibung),0.0004427481359814
+Wie kann Explainable AI zur Akzeptanz von KI beitragen? (so knapp wie möglich),3.649227848268353e-05
+Welche regulatorischen Anforderungen gelten für KI-Systeme in Europa? (genau),0.000443746249849
+Welche regulatorischen Anforderungen gelten für KI-Systeme in Europa? (eine zeile),0.0001344698419921
+Was sind Edge AI und ihre Vorteile? (genau),0.0001708541394565
+Was sind Edge AI und ihre Vorteile? (so knapp wie möglich),6.268390653001334e-05
+Wie können Unternehmen von AIaaS profitieren? (detailliert),0.0004972953774929
+Wie können Unternehmen von AIaaS profitieren? (kurz zusammengefasst),8.653292678487481e-05
+Welche ethischen Leitlinien sollten bei KI-Projekten beachtet werden? (ausführliche erklärung),0.0007363590546583
+Welche ethischen Leitlinien sollten bei KI-Projekten beachtet werden? (eine zeile),0.0001410062259013
+Wie wird die Qualität von Trainingsdaten gemessen? (beantworte ausführlich),0.0005836600558055
+Wie wird die Qualität von Trainingsdaten gemessen? (maximal ein satz),3.904950271157197e-05
+Was sind typische Fehlerquellen bei ML-Projekten? (ausführlich),0.000693065050856
+Was sind typische Fehlerquellen bei ML-Projekten? (stichpunktartig),0.000341775654894
+Wie erfolgt die Evaluation von KI-Modellen? (schritt für schritt),0.0005404923592561
+Wie erfolgt die Evaluation von KI-Modellen? (nur das wichtigste),0.0004296765839225
+Beschreibe  was ist eine Konfusionsmatrix?,0.0002828923673613
+Was ist eine Konfusionsmatrix? (knapp),4.0864133274821145e-05
+Wie kann Cloud Computing die Entwicklung von KI beschleunigen? (detailliert),0.0004442410286614
+Wie kann Cloud Computing die Entwicklung von KI beschleunigen? (stichpunkte),0.0001791470642391
+Wie sieht die Zukunft von AIaaS aus? (begründe),0.0003802924551149
+Wie sieht die Zukunft von AIaaS aus? (so kurz wie möglich),4.5141360298595646e-05
+Was versteht man unter Model Deployment? (genau),4.472548078146058e-05
+Was versteht man unter Model Deployment? (kurz zusammengefasst),4.0326090182586056e-05
+Wie lassen sich KI-Modelle skalieren? (liefere eine genaue beschreibung),0.0005352312899158
+Wie lassen sich KI-Modelle skalieren? (eine zeile),3.940549942837389e-05
+Erörtere  wie kann man Overfitting verhindern?,0.000424773178696
+Wie kann man Overfitting verhindern? (kurz zusammengefasst),8.197144926253667e-05
+Welche Tools gibt es für das Monitoring von ML-Modellen? (liefere details),0.0006602285912174
+Welche Tools gibt es für das Monitoring von ML-Modellen? (kurz),4.420724275062317e-05
+Nennen  wie wird Datenanonymisierung im ML-Kontext umgesetzt?,0.0004009488731015
+Wie wird Datenanonymisierung im ML-Kontext umgesetzt? (kurz erklären),0.0001243853129573
+Erörtere  was sind typische Herausforderungen bei der Integration von KI in bestehende Systeme?,0.0004427016166954
+Was sind typische Herausforderungen bei der Integration von KI in bestehende Systeme? (kurze antwort),3.836234076296832e-05
+Wie kann man Datensätze für ML synthetisch erzeugen? (in eigenen worten),0.0004301415660957
+Wie kann man Datensätze für ML synthetisch erzeugen? (maximal ein satz),4.2759094870394725e-05
+Wie können Unternehmen KI verantwortungsvoll einsetzen? (ausführliche erklärung),0.0005916173457547
+Wie können Unternehmen KI verantwortungsvoll einsetzen? (in wenigen worten),3.081151938447015e-05
+Erörtere  was ist Transfer Learning und wann ist es sinnvoll?,0.0003506015666101
+Was ist Transfer Learning und wann ist es sinnvoll? (nur das wichtigste),0.0001395436487991
+Welche Rolle spielen Datenpipelines in ML-Projekten? (ausführlich),0.0005400213463269
+Welche Rolle spielen Datenpipelines in ML-Projekten? (kurz),4.37079469294472e-05
+Erörtere  wie kann man Modelle für verschiedene Sprachen trainieren?,0.0005672309484352
+Wie kann man Modelle für verschiedene Sprachen trainieren? (in kurzform),6.222486506041534e-05
+Wie wirkt sich die Größe eines Modells auf dessen Energieverbrauch aus? (ausführliche erklärung),0.0004185688503833
+Wie wirkt sich die Größe eines Modells auf dessen Energieverbrauch aus? (in drei worten),2.618540713383306e-05
+Nennen  was sind aktuelle Trends in der Forschung zu generativer KI?,0.0003985336104192
+Was sind aktuelle Trends in der Forschung zu generativer KI? (prägnant),7.93425376510119e-05
+Erkläre  wie kann Bias in Datensätzen erkannt werden?,0.0004540648435584
+Wie kann Bias in Datensätzen erkannt werden? (in wenigen worten),3.666722447920547e-05
+Wie läuft ein typischer AIaaS-Prozess ab? (genau),0.0003918230090802
+Wie läuft ein typischer AIaaS-Prozess ab? (kurz zusammengefasst),0.0001347478821591
+Was sind die wichtigsten Anforderungen an Datensicherheit bei AIaaS? (begründe),0.0005058088949709
+Was sind die wichtigsten Anforderungen an Datensicherheit bei AIaaS? (kurz zusammengefasst),0.0001870089481179
+Erläutere  wie wird Explainable AI in der Praxis angewendet?,0.0005105238842322
+Wie wird Explainable AI in der Praxis angewendet? (kurz und bündig),9.976640322856913e-05
+Was bedeutet Zero-Shot Learning? (ausführlich),0.0004846941261983
+Was bedeutet Zero-Shot Learning? (knapp),3.2480718264084705e-05
+Welche Rolle spielt Transfer Learning im KI-Bereich? (begründe),0.0002667386408095
+Welche Rolle spielt Transfer Learning im KI-Bereich? (kurz und bündig),4.6601668208653865e-05
+Wie können KI-Modelle in Echtzeit eingesetzt werden? (liefere eine genaue beschreibung),0.0005590549893765
+Wie können KI-Modelle in Echtzeit eingesetzt werden? (stichpunktartig),0.0002777494459598
+Was sind die Vorteile von AutoML? (schritt für schritt),0.0003016842361548
+Was sind die Vorteile von AutoML? (kurz erklären),5.262351903745864e-05
+Beschreibe  wie wird Fairness in KI-Systemen sichergestellt?,0.0004926134365965
+Wie wird Fairness in KI-Systemen sichergestellt? (kurz zusammengefasst),9.355124990420893e-05
+Welche KI-Technologien werden in der Industrie am meisten genutzt? (mit beispiel),0.0004157512528611
+Welche KI-Technologien werden in der Industrie am meisten genutzt? (in einem satz),4.436843518232287e-05
+Was sind die Aufgaben eines Data Scientists? (schritt für schritt),0.0003343084642098
+Was sind die Aufgaben eines Data Scientists? (so knapp wie möglich),3.78405483628168e-05
+Welche Unterschiede gibt es zwischen Regression und Klassifikation? (mit beispiel),0.0003047938865607
+Welche Unterschiede gibt es zwischen Regression und Klassifikation? (so kurz wie möglich),2.86108143029812e-05
+Wie funktioniert Clustering? (begründe),0.0003706807809026
+Wie funktioniert Clustering? (in drei worten),2.2856058418589877e-05
+Was ist ein Embedding im ML-Kontext? (schritt für schritt),0.0003971023101585
+Was ist ein Embedding im ML-Kontext? (so knapp wie möglich),3.565866072986324e-05
+Welche Bedeutung hat Feature Selection? (liefere details),0.0003808094050057
+Welche Bedeutung hat Feature Selection? (maximal ein satz),3.391987424283694e-05
+Wie kann man die Performanz von ML-Modellen steigern? (schritt für schritt),0.0005574222390521
+Wie kann man die Performanz von ML-Modellen steigern? (stichpunktartig),0.0003552834313165
+Was ist Reinforcement Learning und wofür wird es genutzt? (liefere details),0.000369311663957
+Was ist Reinforcement Learning und wofür wird es genutzt? (in drei worten),2.830852276833276e-07
+Wie kann man Daten für das Training augmentieren? (begründe),0.0003926201273787
+Wie kann man Daten für das Training augmentieren? (nur das wichtigste),0.0001628006256643
+Was ist eine ROC-Kurve? (liefere eine genaue beschreibung),0.0004360551492414
+Was ist eine ROC-Kurve? (so knapp wie möglich),4.214504717382696e-05
+Erörtere  wie funktioniert k-Nearest Neighbors?,0.0005015436780308
+Wie funktioniert k-Nearest Neighbors? (in wenigen worten),5.764885366065845e-05
+Wie werden Modelle mit Transfer Learning weiterentwickelt? (ausführlich),0.0007443287255883
+Wie werden Modelle mit Transfer Learning weiterentwickelt? (kurze antwort),4.002158266777674e-05
+Was sind GANs (Generative Adversarial Networks)? (liefere eine genaue beschreibung),0.00040702479555
+Was sind GANs (Generative Adversarial Networks)? (in einem satz),4.876572769906122e-05
+Wie lässt sich die Modellgüte bewerten? (detailliert),0.0006533130477732
+Wie lässt sich die Modellgüte bewerten? (prägnant),3.123816052746617e-05
+Welche Bedeutung haben Labels im Machine Learning? (detailliert),0.0004989107740633
+Welche Bedeutung haben Labels im Machine Learning? (ohne ausschmückung),9.849623984438848e-05
+Wie funktioniert Cross-Validation? (ausführliche erklärung),0.0005017839047833
+Wie funktioniert Cross-Validation? (kurz beschreiben),0.0001736457897334
+Erörtere  was ist eine Epoch im Training eines ML-Modells?,0.0002908074158814
+Was ist eine Epoch im Training eines ML-Modells? (kurz und bündig),3.8623835636557854e-05
+Erkläre  wie kann man Modelle interpretierbar machen?,0.0004462853578948
+Wie kann man Modelle interpretierbar machen? (stichpunkte),0.0002791672572043
+Beschreibe  was sind die wichtigsten Anwendungsfälle für ML in der Industrie?,0.0004074828921578
+Was sind die wichtigsten Anwendungsfälle für ML in der Industrie? (stichpunktartig),0.0001879156281654
+Wie kann man Daten für maschinelles Lernen anonymisieren? (detailliert),0.0006500569611397
+Wie kann man Daten für maschinelles Lernen anonymisieren? (stichpunkte),0.0004659478996592
+Was versteht man unter Batch Learning? (begründe),0.0002341618929869
+Was versteht man unter Batch Learning? (maximal ein satz),2.90874732286068e-05
+Erörtere  was ist Semi-Supervised Learning?,0.0002976732475729
+Was ist Semi-Supervised Learning? (in drei worten),2.5553488014572635e-05
+Wie können Ausreißer im Datensatz erkannt und behandelt werden? (begründe),0.000541604947223
+Wie können Ausreißer im Datensatz erkannt und behandelt werden? (in wenigen worten),3.8249686546429786e-05
+Beschreibe  was sind Herausforderungen bei Multi-Label-Klassifikation?,0.0003784538897806
+Was sind Herausforderungen bei Multi-Label-Klassifikation? (stichpunktartig),0.0001675789477572
+Nenne 3 Vorteile von KI in der Industrie. (ausführlich),0.0005088613264751
+Nenne 3 Vorteile von KI in der Industrie. (stichpunktartig),8.533556167586226e-05
+Erörtere Gib mir 5 Beispiele für Machine-Learning-Algorithmen.,0.0002664602951418
+Gib mir 5 Beispiele für Machine-Learning-Algorithmen. (kurz erklären),0.0002066264995815
+Nennen Zähle 10 Anwendungen für Deep Learning auf.,0.0002165024080155
+Zähle 10 Anwendungen für Deep Learning auf. (kurze antwort),5.965321182117538e-05
+Was sind die 2 Hauptarten von neuronalen Netzen? (schritt für schritt),0.0002815067032176
+Was sind die 2 Hauptarten von neuronalen Netzen? (maximal ein satz),3.830899358316731e-05
+Welche 4 Schritte umfasst der Data-Science-Prozess? (detailliert),0.0004002270717926
+Welche 4 Schritte umfasst der Data-Science-Prozess? (kurz und bündig),6.125054681131888e-05
+Nennen Gib 6 Methoden zur Datenvorverarbeitung an.,0.0001721569558641
+Gib 6 Methoden zur Datenvorverarbeitung an. (maximal ein satz),7.822113217306349e-05
+Was sind 3 Herausforderungen bei der Datensicherheit? (in eigenen worten),0.0001054948974781
+Was sind 3 Herausforderungen bei der Datensicherheit? (so knapp wie möglich),5.276247150233871e-05
+Erörtere Nenne 7 bekannte Frameworks für KI.,0.0002481252603185
+Nenne 7 bekannte Frameworks für KI. (nur das wichtigste),0.0001971793833883
+Erläutere Welche 8 Programmiersprachen werden im ML eingesetzt?,0.0002989897217787
+Welche 8 Programmiersprachen werden im ML eingesetzt? (so kurz wie möglich),5.081807402525756e-05
+Zähle 5 Nachteile von Black-Box-Modellen auf. (liefere details),0.0002532058274007
+Zähle 5 Nachteile von Black-Box-Modellen auf. (ohne ausschmückung),0.0001201814663214
+Erkläre in 2 Sätzen den Begriff Overfitting. (mit beispiel),5.068010557540133e-05
+Erkläre in 2 Sätzen den Begriff Overfitting. (ohne ausschmückung),4.479698467318624e-05
+Gib 10 Tipps zur Optimierung von Trainingsdaten. (detailliert),0.0006568594461371
+Gib 10 Tipps zur Optimierung von Trainingsdaten. (kurz und bündig),0.0001266941782093
+Was sind 4 Kennzahlen zur Bewertung von ML-Modellen? (detailliert),0.0005192276147013
+Was sind 4 Kennzahlen zur Bewertung von ML-Modellen? (knapp),7.055470971813887e-05
+Nenne 5 Ursachen für Bias in Datensätzen. (in eigenen worten),0.0001861184527312
+Nenne 5 Ursachen für Bias in Datensätzen. (kurze antwort),7.267106802520259e-05
+Was sind die 3 beliebtesten Cloud-Anbieter für AIaaS? (liefere eine genaue beschreibung),0.0005699610761337
+Was sind die 3 beliebtesten Cloud-Anbieter für AIaaS? (knapp),4.683012106653232e-05
+Beschreibe 6 typische Anwendungsbereiche von NLP. (genau),0.0001640473119465
+Beschreibe 6 typische Anwendungsbereiche von NLP. (maximal ein satz),8.901443508487497e-05
+Welche 2 Techniken zur Regularisierung gibt es? (in eigenen worten),0.0001790096749391
+Welche 2 Techniken zur Regularisierung gibt es? (eine zeile),6.775030269552521e-05
+Gib mir 9 Vorteile von Transfer Learning. (erklären sie),0.0002340935130968
+Gib mir 9 Vorteile von Transfer Learning. (knapp),0.0001182222873494
+Erkläre  was sind 5 ethische Aspekte beim Einsatz von KI?,0.0002598269843251
+Was sind 5 ethische Aspekte beim Einsatz von KI? (stichpunktartig),0.0001583281915008
+Nenne 8 Herausforderungen beim Einsatz von KI in KMUs. (detailliert),0.000777745627525
+Nenne 8 Herausforderungen beim Einsatz von KI in KMUs. (knapp),9.960212446695715e-05
+

@@ -1,0 +1,33 @@
+Modell,Prompt,Prompt_Laenge,Prompt_Woerter,Enthaelt_Ausfuehrlich_Schluesselwort,Enthaelt_Kurz_Schluesselwort,Energieverbrauch,Dauer (Sekunden)
+Chatbot 1 lang,Bitte detailliert was versteht man unter ai as a service?,57,10,1,0,0.0005050219035933715,68.2484130859375
+Chatbot 2 kurz,Was versteht man unter AI as a Service? (stichpunkte),53,9,0,1,0.00014865027897227677,20.121721744537354
+Chatbot 1 lang,Beschreibe Nenne die Hauptvorteile von Machine Learning in der Cloud.,69,10,1,0,0.0003223695343841677,43.572035789489746
+Chatbot 2 kurz,Nenne die Hauptvorteile von Machine Learning in der Cloud. (knapp),66,10,0,1,8.270147813898571e-05,11.197114706039429
+Chatbot 1 lang,Beschreibe Welche Herausforderungen gibt es bei KI-Ethik?,57,8,1,0,0.0005422532651816274,73.25334143638611
+Chatbot 2 kurz,Welche Herausforderungen gibt es bei KI-Ethik? (knapp),54,8,0,1,3.598235447395808e-05,4.886935472488403
+Chatbot 1 lang,"Erkläre, wie funktioniert supervised learning?",46,5,1,0,0.000380793280132945,51.441548109054565
+Chatbot 2 kurz,Wie funktioniert supervised learning? (kurz),44,5,0,1,5.1849766307304685e-05,7.044251441955566
+Chatbot 1 lang,Bitte ausführlich was ist der unterschied zwischen klassischem programmieren und ml?,84,11,1,0,0.0005611676238973631,75.81746506690979
+Chatbot 2 kurz,Was ist der Unterschied zwischen klassischem Programmieren und ML? (knapp),74,10,0,1,3.510045183773608e-05,4.784467935562134
+Chatbot 1 lang,Bitte detailliert wofür wird reinforcement learning eingesetzt?,63,7,1,0,0.000587972391604618,79.41976809501648
+Chatbot 2 kurz,Wofür wird Reinforcement Learning eingesetzt? (kurz),52,6,0,1,4.453484292533432e-05,6.048191547393799
+Chatbot 1 lang,"Beschreibe, was ist ein neuronales Netz?",40,6,1,0,0.00033063583393639853,44.701690912246704
+Chatbot 2 kurz,Was ist ein neuronales Netz? (stichpunkte),42,6,0,1,0.00016493827611345895,22.330816984176636
+Chatbot 1 lang,Erkläre Overfitting mit einem Beispiel. (bitte),47,6,1,0,0.0003594005069603076,48.5614960193634
+Chatbot 2 kurz,Erkläre Overfitting mit einem Beispiel. (kurz),46,6,0,1,0.0001252891267793306,16.953952074050903
+Chatbot 1 lang,"Beschreibe, wie kann man Daten für ML-Anwendungen vorverarbeiten?",65,9,1,0,0.0005151874887353179,69.59632325172424
+Chatbot 2 kurz,Wie kann man Daten für ML-Anwendungen vorverarbeiten? (in einem satz),69,11,0,1,5.760038666200165e-05,7.817417144775391
+Chatbot 1 lang,Bitte detailliert welche bedeutung haben gpus für ki?,53,8,1,0,0.00040761123569427887,55.07907247543335
+Chatbot 2 kurz,Welche Bedeutung haben GPUs für KI? (kurz),42,7,0,1,4.118665316381848e-05,5.594240665435791
+Chatbot 1 lang,"Beschreibe, was ist Transfer Learning?",38,5,1,0,0.0002950968356332493,39.877806425094604
+Chatbot 2 kurz,Was ist Transfer Learning? (kurz),33,5,0,1,4.1067380364303935e-05,5.5776526927948
+Chatbot 1 lang,Bitte ausführlich nenne bekannte anbieter von aiaas.,52,7,1,0,0.0006396076888819918,86.39822936058044
+Chatbot 2 kurz,Nenne bekannte Anbieter von AIaaS. (stichpunkte),48,6,0,1,0.0004473725297243186,60.45244336128235
+Chatbot 1 lang,Wie lässt sich KI für die Automatisierung nutzen? (bitte),57,9,1,0,0.00042300729470639865,57.14215159416199
+Chatbot 2 kurz,Wie lässt sich KI für die Automatisierung nutzen? (in einem satz),65,11,0,1,4.824233467400475e-05,6.541741132736206
+Chatbot 1 lang,"Nennen, was sind Biases in ML-Modellen?",39,7,1,0,0.0004160457626606903,56.22334861755371
+Chatbot 2 kurz,Was sind Biases in ML-Modellen? (kurz),38,7,0,1,5.4499506360080386e-05,7.439582109451294
+Chatbot 1 lang,Bitte ausführlich was ist ein hyperparameter in ml?,51,8,1,0,0.0005015411573058534,67.80453777313232
+Chatbot 2 kurz,Was ist ein Hyperparameter in ML? (in einem satz),49,9,0,1,4.866913708583404e-05,6.6116673946380615
+Chatbot 1 lang,"Nennen, wie funktioniert Feature Engineering?",45,5,1,0,0.0005310137927832554,71.74505591392517
+Chatbot 2 kurz,Wie funktioniert Feature Engineering? (stichpunkte),51,5,0,1,0.0003714625860691923,50.24635720252991

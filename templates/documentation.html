@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>D-AI-Y AIaaS Dokumentation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    body { background: #f0f4f8; font-family: 'Roboto', sans-serif; }
+    .container { margin-top: 2rem; background: #fff; border-radius: 0.5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.07); padding: 2rem; }
+    h1 { color: #00478f; font-weight: bold; }
+    h3 { margin-top: 2rem; }
+    a { color: #00478f; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>D-AI-Y AIaaS Webserver Dokumentation &amp; Hilfe</h1>
+    <p>
+      <b>Unsichere Klassifikation?</b>
+      Wenn das Modell bei einer Bildklassifikation eine niedrige Sicherheit meldet, bedeutet das typischerweise:
+      <ul>
+        <li>Das Eingabebild weicht stark von Trainingsdaten ab (z.B. Perspektive, Licht, Qualität, etc.)</li>
+        <li>Das Modell ist für diesen Anwendungsfall nicht optimal trainiert</li>
+        <li>Das Bild enthält Merkmale, die das Modell nicht gut interpretieren kann</li>
+      </ul>
+    <b>Wie wird die Sicherheit („Confidence“) berechnet?</b>
+      <ul>
+        <li>Für jedes hochgeladene Bild berechnet das KI-Modell für jede Klasse eine Wahrscheinlichkeit (z.B. „intakt“ oder „beschädigt“).</li>
+        <li>Die höchste dieser Wahrscheinlichkeiten (z.B. 0,86 für „beschädigt“) wird ausgewählt.</li>
+        <li>Die <b>Confidence</b> ist genau dieser Wert – multipliziert mit 100, also z.B. 86%.</li>
+        <li>Mathematisch: Das Modell nutzt die sogenannte <b>Softmax-Funktion</b>, um die Wahrscheinlichkeiten für alle Klassen auszugeben.</li>
+        <li>Je höher die Confidence, desto sicherer ist sich das Modell mit seiner Vorhersage. Werte unter 90% gelten als unsicher und führen zu einer Warnung.</li>
+      </ul>
+      <b>Maßnahmen:</b>
+      <ul>
+        <li>Verwenden Sie, wenn möglich, Bilder in guter Qualität und neutraler Perspektive</li>
+        <li>Lesen Sie die spezifischen Anwendungs- und Limitationen des Modells in der Dokumentation</li>
+        <li>Kontaktieren Sie unser Team für eine Nachschulung (Training) mit passenden Beispielen</li>
+      </ul>
+      <b>Weitere Infos und Hinweise:</b>
+      <ul>
+        <li>Beachten Sie, dass AI-Vorhersagen immer kritisch hinterfragt werden sollten</li>
+        <li>Sie finden alle Details, Trainingsinfos und Limitationen auf dieser Seite</li>
+      </ul>
+      <hr>
+      <a href="{{ url_for('index_page') }}">&larr; Zurück zur Startseite</a>
+    </p>
+  </div>
+</body>
+</html>

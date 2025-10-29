@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Metriken - DAIY AIaaS Webserver</title>
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: #f0f4f8;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      max-width: 1200px;
+      background: #fff;
+      border-radius: 0.5rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      padding: 2rem;
+      margin: 2rem auto 0;
+      flex-grow: 1;
+    }
+
+    h1.page-title {
+      color: #2d3748;
+      margin-bottom: 1.5rem;
+    }
+    h3 {
+      color: #2d3748;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .metric-image {
+      max-width: 100%;
+      height: auto;
+      border-radius: 0.5rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      margin-top: 0.5rem;
+    }
+    .accuracy-image {
+      max-width: 70%;
+    }
+
+    /* Radar Grid */
+    .radar-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2rem 1.5rem;
+      margin-top: 1.5rem;
+      justify-content: center;
+    }
+    .radar-item {
+      flex: 1 1 250px;
+      max-width: 320px;
+      min-width: 220px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      background: #f8fafc;
+      border-radius: 0.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+      padding: 1.2rem 1rem 1rem 1rem;
+    }
+    .radar-title {
+      font-size: 1.1rem;
+      font-weight: 500;
+      margin-bottom: 0.6rem;
+      color: #174269;
+    }
+    .radar-img {
+      width: 95%;
+      height: auto;
+      border-radius: 0.5rem;
+      background: #fff;
+    }
+
+    @media (max-width: 900px) {
+      .radar-grid { gap: 1.5rem 1rem; }
+      .radar-item { max-width: 100%; }
+    }
+    @media (max-width: 600px) {
+      .container { padding: 1rem; }
+      .radar-grid { gap: 1rem; }
+      .radar-item { padding: 0.6rem 0.4rem 0.8rem 0.4rem; }
+    }
+
+    /* FOOTER styles (wie vorher) ... */
+    footer {
+      width: 100%;
+      background: #00478f;
+      color: #fff;
+      margin-top: auto;
+      height: 140px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 1rem;
+      box-sizing: border-box;
+    }
+    .footer-main {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.5rem;
+      padding: 0 1.5rem;
+    }
+    .footer-logo {
+      height: 60px;
+      width: auto;
+      background: #fff;
+      border-radius: 6px;
+      padding: 6px 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+      margin-left: 1rem;
+      margin-right: 1rem;
+    }
+    .footer-text {
+      max-width: 700px;
+      line-height: 1.3;
+      font-size: 0.75rem;
+      color: #fff;
+      margin: 0;
+      text-align: center;
+    }
+    .footer-links {
+      width: 100%;
+      text-align: center;
+      margin-top: 1rem;
+      margin-bottom: 0.25rem;
+      font-size: 0.75rem;
+    }
+    .footer-links a {
+      text-decoration: none;
+      margin: 0 0.5rem;
+      color: #fff;
+      font-weight: 500;
+    }
+    .footer-links a:hover {
+      text-decoration: underline;
+    }
+    .footer-copy {
+      text-align: center;
+      margin-top: 0.5rem;
+      font-size: 0.7rem;
+      color: #ddd;
+    }
+    @media (max-width: 900px) {
+      .footer-main {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+        margin-bottom: 0.2rem;
+        padding: 0 1rem;
+      }
+      .footer-logo {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0.5rem;
+        height: 50px;
+      }
+    }
+    @media (max-width: 600px) {
+      .footer-main { padding: 0; }
+      .footer-logo { height: 40px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- MAIN CONTENT -->
+  <div class="container">
+    <h3 class="mt-4">Sternplots der Modelle</h3>
+    <div class="radar-grid">
+      <div class="radar-item">
+        <div class="radar-title">DenseNet</div>
+        <img src="{{ url_for('static', filename='radarplot_densenet.png') }}" alt="Sternplot DenseNet" class="radar-img" />
+      </div>
+      <div class="radar-item">
+        <div class="radar-title">EfficientNet</div>
+        <img src="{{ url_for('static', filename='radarplot_efficientnet.png') }}" alt="Sternplot EfficientNet" class="radar-img" />
+      </div>
+      <div class="radar-item">
+        <div class="radar-title">MobileNetV3</div>
+        <img src="{{ url_for('static', filename='radarplot_mobilenetv3.png') }}" alt="Sternplot MobileNetV3" class="radar-img" />
+      </div>
+      <div class="radar-item">
+        <div class="radar-title">ResNet18</div>
+        <img src="{{ url_for('static', filename='radarplot_resnet18.png') }}" alt="Sternplot ResNet18" class="radar-img" />
+      </div>
+      <div class="radar-item">
+        <div class="radar-title">ResNet50</div>
+        <img src="{{ url_for('static', filename='radarplot_resnet50.png') }}" alt="Sternplot ResNet50" class="radar-img" />
+      </div>
+    </div>
+    <a href="{{ url_for('index_page') }}" class="btn btn-custom">Zurück zur Hauptseite</a>
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-main">
+      <img src="{{ url_for('static', filename='csm_bmbf_9037e744af.png') }}" alt="BMBF Logo" class="footer-logo" />
+      <p class="footer-text mb-0">
+        Dieses Projekt wird vom Bundesministerium für Bildung und Forschung (BMBF)
+        im Rahmen der Fördermaßnahme DigiLeistDAT gefördert. Projektlaufzeit:
+        01.01.2024 – 31.12.2026.
+      </p>
+    </div>
+    <div class="container-fluid footer-links">
+      <a href="{{ url_for('sla_page') }}">Service Level Agreement</a> |
+      <a href="{{ url_for('privacy_page') }}">Datenschutzerklärung</a> |
+      <a href="{{ url_for('ethics_page') }}">Ethik-Richtlinien</a> |
+      <a href="{{ url_for('contact_page') }}">Feedback & Kontakt</a>
+    </div>
+    <div class="footer-copy">
+      © 2025 DAIY AIaaS Webserver. Alle Rechte vorbehalten.
+    </div>
+  </footer>
+
+  <!-- Bootstrap + Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

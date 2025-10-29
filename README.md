@@ -7,6 +7,6 @@
 4. Metriken der Modelle (Starplots)
 
 ## Vorgehen:
-1. Ollama lokal starten über Terminal für den Chatbot  -> `mit ollama run gemma3:1b` 
+1. Ollama lokal starten über Terminal für den Chatbot  -> `ollama run gemma3:1b` 
 
 2. Run `webserver_v17.py`

@@ -2,7 +2,7 @@
 
 ## Funktionalitäten:
 1. Chatbot mit Live-Energieprognose + tatsächlicher Energieverbrauch + Upload Funktion
-2. Bildklassifikation von Verpackungen (vergleiche `damaged_packages_test_pics Ordner)
+2. Bildklassifikation von Verpackungen (vergleiche `damaged_packages_test_pics`)
 3. Predictive maintenance (keine Funktion)
 4. Metriken der Modelle (Starplots)
 
